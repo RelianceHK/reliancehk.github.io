@@ -13,3 +13,10 @@
 
 > <p><a href="http://220.189.249.102/Resident/LookMyData.aspx" title="嘉兴市南湖区新居民积分信息查询( http://220.189.249.102/Resident/LookMyData.aspx )"><img src="https://camo.githubusercontent.com/9afafa3c1996f3a1eff7fc9083fda3a95ee68c60/687474703a2f2f7777772e636e6a786f6c2e636f6d2f78777a782f6a7878772f636f6e74656e742f696d616765732f617474616368656d656e742f6a70672f73697465312f32303138303531352f663862313536626166323063316336343938303833302e6a70673f7261773d74727565?raw=true"/></a></p>
 
+
+
+>  	[关于调整完善南湖区新居民积分制管理实施办法的通知_42.pdf](https://reliancehk.github.io/ebook/嘉兴新居民积分政策/关于调整完善南湖区新居民积分制管理实施办法的通知_42.pdf)
+>  	[关于印发《嘉兴市南湖区新居民积分制管理计分标准》的通知_43.pdf](https://reliancehk.github.io/ebook/嘉兴新居民积分政策/关于印发《嘉兴市南湖区新居民积分制管理计分标准》的通知_43.pdf)
+>  	[南湖区新居民积分制入学操作流程_60.pdf](https://reliancehk.github.io/ebook/嘉兴新居民积分政策/南湖区新居民积分制入学操作流程_60.pdf)
+>  	[南湖区新居民积分制管理计分标准_61.pdf](https://reliancehk.github.io/ebook/嘉兴新居民积分政策/南湖区新居民积分制管理计分标准_61.pdf)
+>  	[南湖区新居民积分制入读公办中小学实施办法_62.pdf](https://reliancehk.github.io/ebook/嘉兴新居民积分政策/南湖区新居民积分制入读公办中小学实施办法_62.pdf)

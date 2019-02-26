@@ -1,0 +1,127 @@
+Windows Drivers for TSC(Windows 2000, XP, Server 2003, Vista, Server 2008, Windows 7, XP 64-bit, Server 2003 64-bit, Vista 64-bit, Server 2008 64-bit, Windows 7 64-bit)
+
+Version: 4.6.44 (Build 2477)
+Date: 04/01/2010
+
+Supported printers:
+  CN2404
+  CN2405
+  CN2406
+  CN2407
+  CN2410
+  CN244C
+  CN245
+  CN2608
+  CN3402
+  CN3403
+  CN3404
+  CN3405
+  CN3406
+  CN343
+  CN344C
+  CN3604
+  CN3606
+  CN3804
+  CN6404
+  D-3100
+  D-3200
+  D-9660
+  D-9670
+  Deluxe 200 Pro
+  Deluxe 300 Pro
+  DT024-50 Plus
+  DT027-50
+  DT033-50
+  DT033-60
+  LP-100
+  LP2404
+  LP2405
+  LP2406
+  LP2407
+  LP2410
+  LP244C
+  LP245
+  LP2608
+  LP3402
+  LP3403
+  LP3404
+  LP3405
+  LP3406
+  LP343
+  LP344C
+  LP3604
+  LP3606
+  LP3804
+  LP6404
+  M-2406 Plus
+  M-3406 Plus
+  M-6404
+  M23
+  M4210
+  M4306
+  M8304
+  T-0612
+  T-0613
+  T-0812
+  T-3000 Plus
+  T-443 Plus
+  T-462 Plus
+  T-9650 Plus
+  TDP-225
+  TDP-244
+  TDP-244CE
+  TDP-245
+  TDP-245 Plus
+  TDP-245 Pro
+  TDP-245C
+  TDP-247
+  TDP-643
+  TDP-643 Plus
+  TDP-643R Plus
+  TT024-50 Plus
+  TT024-60 Plus
+  TT027-50
+  TT027-60
+  TT027-70
+  TT033-50
+  TT033-70
+  TT034-50
+  TT035-70
+  TTP/TDP-242
+  TTP/TDP-243(E)
+  TTP/TDP-243(E) Plus
+  TTP/TDP-243M(244ME)
+  TTP/TDP-244ME Plus
+  TTP/TDP-342(M)
+  TTP/TDP-342(M) Plus
+  TTP-225
+  TTP-2410M
+  TTP-243 Pro
+  TTP-243E Pro
+  TTP-244
+  TTP-244 Plus
+  TTP-244CE
+  TTP-245
+  TTP-245 Plus
+  TTP-245C
+  TTP-246M
+  TTP-246M Plus
+  TTP-247
+  TTP-248M
+  TTP-268M
+  TTP-342 Pro
+  TTP-342E Pro
+  TTP-343
+  TTP-343 Plus
+  TTP-343C
+  TTP-344
+  TTP-344C
+  TTP-344M
+  TTP-344M Plus
+  TTP-345
+  TTP-346M
+  TTP-366M
+  TTP-384M
+  TTP-644M
+  TTSC245
+  TTSC343

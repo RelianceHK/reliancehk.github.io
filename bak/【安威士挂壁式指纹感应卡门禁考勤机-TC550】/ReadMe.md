@@ -9,7 +9,7 @@
 >
 > [查看详细参数>>](http://product.yesky.com/product/809/809970/param.shtml)
 >
-> [CrossChex Standard 用户手册（中文）.PDF](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/【安威士挂壁式指纹感应卡门禁考勤机-TC550】/CrossChex Standard用户手册（中文）V1.0.pdf)
+> 《[CrossChex Standard 用户手册（中文）.PDF](https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/CrossChex Standard用户手册（中文）V1.0.pdf)》
 >
 
 > **产品简介**： 安威士挂壁式指纹感应卡门禁考勤机TC550，美国Ti公司32位低功耗高速处理器，运算速度快，4行*8字 图文显示，65*35MM（视域），清晰明了，高质量人性化语音提示，操作便捷，标准USB通讯、U盘通讯、TCP/IP通讯，满足不同环境下的数据传输需求，韦根信号输入输出、继电器信号输出、串口小票打印输出，使产品应用具有极大可扩展性（门禁、打铃等），标配内置ID刷卡模块，可选Mifare刷卡模块。
@@ -18,7 +18,7 @@
 
 - [**上海安威士科技股份有限公司**](http://www.anviz.com/zh-cn) (官网 http://www.anviz.com/cn )
 >
-> [公开转让说明书-上海安威士科技股份有限公司.PDF](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/【安威士挂壁式指纹感应卡门禁考勤机-TC550】/公开转让说明书-上海安威士科技股份有限公司.PDF)
+> 《[公开转让说明书-上海安威士科技股份有限公司.PDF](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/【安威士挂壁式指纹感应卡门禁考勤机-TC550】/公开转让说明书-上海安威士科技股份有限公司.PDF)》
 >
 > 中国上海市闵行区金都路3669号1号楼
 > 

@@ -1,7 +1,8 @@
 
 
 - [【安威士挂壁式指纹感应卡门禁考勤机TC550】(挂壁式指纹感应卡门禁考勤机TC550)](http://product.yesky.com/product/809/809970/) - [天极产品库](http://product.yesky.com/)
-><img src="http://pimages2.tianjimedia.com/resources/product/20120904/EGNW1W9MEN52NEB1CAFQ4U17L2V75XW7.jpg?raw=true"/>
+><img src="https://camo.githubusercontent.com/884904d966faf2bcc536ce5e5f316ab1acedb168/687474703a2f2f70696d61676573322e7469616e6a696d656469612e636f6d2f7265736f75726365732f70726f647563742f32303132303930342f45474e573157394d454e35324e45423143414651345531374c325637355857372e6a70673f7261773d74727565?raw=true"/>
+>
 >参考价格：￥950
 >
 >产品类型：考勤门禁系统使用介质：指纹、密码、指纹+密码、卡片存储量：50000条接口：USB口，TCP/IP网络，RS232其它：标配125KHZ的RFID，选配13.56MHZ的Mifare液晶屏显示：蓝色液晶屏

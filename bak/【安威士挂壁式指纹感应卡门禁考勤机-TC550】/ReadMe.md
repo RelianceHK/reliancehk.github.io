@@ -1,8 +1,7 @@
 
 
 - [【安威士挂壁式指纹感应卡门禁考勤机TC550】(挂壁式指纹感应卡门禁考勤机TC550)](http://product.yesky.com/product/809/809970/) - [天极产品库](http://product.yesky.com/)
-> <p><img src="https://camo.githubusercontent.com/884904d966faf2bcc536ce5e5f316ab1acedb168/687474703a2f2f70696d61676573322e7469616e6a696d656469612e636f6d2f7265736f75726365732f70726f647563742f32303132303930342f45474e573157394d454e35324e45423143414651345531374c325637355857372e6a70673f7261773d74727565?raw=true"/>
-<img src="http://pimages2.tianjimedia.com/resources/product/20120904/SZB047L1GSY598DE9IKQ7F5V4F4JO2FY.jpg?raw=true"/> </p>
+> <img src="https://camo.githubusercontent.com/884904d966faf2bcc536ce5e5f316ab1acedb168/687474703a2f2f70696d61676573322e7469616e6a696d656469612e636f6d2f7265736f75726365732f70726f647563742f32303132303930342f45474e573157394d454e35324e45423143414651345531374c325637355857372e6a70673f7261773d74727565?raw=true"/>
 >
 >参考价格：￥950
 >
@@ -11,6 +10,8 @@
 > [查看详细参数>>](http://product.yesky.com/product/809/809970/param.shtml)
 
 >产品简介： 安威士挂壁式指纹感应卡门禁考勤机TC550，美国Ti公司32位低功耗高速处理器，运算速度快，4行*8字 图文显示，65*35MM（视域），清晰明了，高质量人性化语音提示，操作便捷，标准USB通讯、U盘通讯、TCP/IP通讯，满足不同环境下的数据传输需求，韦根信号输入输出、继电器信号输出、串口小票打印输出，使产品应用具有极大可扩展性（门禁、打铃等），标配内置ID刷卡模块，可选Mifare刷卡模块。
+
+> <p><img src="https://camo.githubusercontent.com/c0efe43c8005f4f2de9d4c2a81831cd0eaafe34c/687474703a2f2f70696d61676573322e7469616e6a696d656469612e636f6d2f7265736f75726365732f70726f647563742f32303132303930342f535a423034374c31475359353938444539494b51374635563446344a4f3246592e6a70673f7261773d74727565?raw=true"/> </p>
 
 - [上海安威士科技股份有限公司](http://www.anviz.com/zh-cn) ( http://www.anviz.com/cn )
 

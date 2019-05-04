@@ -1,4 +1,4 @@
-TSC桌面标签打印机（型号：T-4502E 条形码打印机）
+- **TSC桌面标签打印机**（型号：T-4502E [条形码打印机](http://www.barcodesh.com/detail.php?pId=353&t=3) ）
 
 >（客服热线：022-5981 6661 - 按1号键，进入技术支持）
 
@@ -20,12 +20,10 @@ TSC桌面标签打印机（型号：T-4502E 条形码打印机）
 >
 > E-mail：apac_sales@tscprinters.com
 
-> 上海登元信息技术有限公司 登元办公 - 官方服务网站 
-> http://www.barcodesh.com/index.php 
+> [上海登元信息技术有限公司 登元办公 - 官方服务网站](http://www.barcodesh.com/index.php) （  http://www.barcodesh.com/index.php ）
 
 
-
->>  上海登元-百度网盘 ( http://pan.baidu.com/share/home?uk=1060340492#category/type=0 )
+>>  [上海登元-百度网盘](http://pan.baidu.com/share/home?uk=1060340492#category/type=0) ( http://pan.baidu.com/share/home?uk=1060340492#category/type=0 )
 
 > “条码的数字部分不能正常显示”的解决方法：
 

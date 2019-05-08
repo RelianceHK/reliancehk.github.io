@@ -1,4 +1,4 @@
-- **TSC桌面标签打印机**（型号：T-4502E [条形码打印机](http://www.barcodesh.com/detail.php?pId=353&t=3) ）
+- **TSC桌面标签打印机**（型号：T-4502E [条形码打印机](http://www.barcodesh.com/detail.php?pId=353&t=3) / [下载](http://www.tscchina.cn/SC/support/support_download/T-4502E%E7%B3%BB%E5%88%97) [驱动程序](http://www.tscchina.cn/SC/support/support_download/T-4502E%E7%B3%BB%E5%88%97#) [标签编辑软件](http://www.tscchina.cn/SC/support/support_download/T-4502E%E7%B3%BB%E5%88%97#) ）
 
 >（客服热线：022-5981 6661 - 按1号键，进入技术支持）
 

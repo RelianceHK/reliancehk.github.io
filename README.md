@@ -6,4 +6,4 @@
 
 ### Contributors
 
-[![](https://opencollective.com/RelianceHK.github.io/contributors.svg?width=890)](https://github.com/RelianceHK/RelianceHK.github.io/graphs/contributors)
+[![](https://opencollective.com/RelianceHK/contributors.svg?width=890)](https://github.com/RelianceHK/RelianceHK.github.io/graphs/contributors)

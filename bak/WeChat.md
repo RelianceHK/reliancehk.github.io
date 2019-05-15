@@ -14,9 +14,9 @@
 >
 >  开通门槛:
 >  
->>      微信公众账号运营到 500 粉丝（该账号关注用户）才能申请开通
->>      同一主体最多允许 20 个公众账号申请开通流量主
->>      存在刷粉行为的公众账号不予通过，规则请参见[《微信公众平台运营规范 3.2》](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/faq_operation_tmpl&type=info&lang=zh_CN)
+>>       微信公众账号运营到 500 粉丝（该账号关注用户）才能申请开通
+>>       同一主体最多允许 20 个公众账号申请开通流量主
+>>       存在刷粉行为的公众账号不予通过，规则请参见《[微信公众平台运营规范 3.2](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/faq_operation_tmpl&type=info&lang=zh_CN)》
     
     <hr>
     

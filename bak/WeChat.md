@@ -18,7 +18,8 @@
 >>       同一主体最多允许 20 个公众账号申请开通流量主
 >>       存在刷粉行为的公众账号不予通过，规则请参见《微信公众平台运营规范 3.2》
 
-    
+- 《[微信公众平台运营规范 3.2](https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/faq_operation_tmpl&type=info&lang=zh_CN)》
+
 <hr>
     
  - **2015年07月22日 ，H-zwj*9420已成功绑定成为运营者微信号**

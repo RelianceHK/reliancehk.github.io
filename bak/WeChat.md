@@ -1,3 +1,5 @@
+ <span style="BORDER-BOTTOM: rgb(204,204,204) 1px dashed; Z-INDEX: 1; LINE-HEIGHT: 30px"><font size="4" face="lucida Grande, Verdana">
+ 
  - **【流量主】公众号流量主开通邀请**
 
     你好，现邀请你开通公众号广告的流量主功能。公众号流量主可开通底部广告位、文中广告位及返佣商品广告，按月获得广告收益。

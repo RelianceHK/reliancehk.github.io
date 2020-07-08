@@ -46,7 +46,31 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
  
 - **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
 
-# 故障与维护：
+# [Tips](https://github.com/taoste/taoste.github.io/issues/10) 故障与维护：
+
+- 电脑无法连接共享打印机，在添加打印机时提示 错误代码**0x00000569** 
+
+> 0x00000569:未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。
+> 
+> 解决方法：
+> 开始运行gpedit.msc，打开组策略，找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“用户权限分配”，在右边的策略中找到“拒绝从网络访问这 台计算机”，把Guest删除、保存即可。
+
+--------------------------------------------------------------------------
+
+- 启用Guest访问权限 
+> 计算机管理--系统工具--本地用户和组--用户--Guest--右键打开属性--去除“账户已禁用”。
+
+--------------------------------------------------------------------------
+
+- [Windows 7 无法保存打印机设置(**错误代码 0x000006d9**)解决方法](http://www.jb51.net/os/windows/77770.html)_脚本之家
+
+> 
+> 　　目标：打开“**Windows Firewall**“服务即可
+>        [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：
+> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
+
+
+
 - [**Win7打印机共享出现错误0x000006d9如何解决**](https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html) - 百度经验
 
 > 问题原因：防火墙windows firewall服务未开启。<br>

@@ -38,7 +38,6 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 ```
 （小余）打印机共享 \\192.168.0.66\Brother DCP-7057 Printer
 ```
-<hr>
 
 - **【松下官网】Panasonic KX-MB2138CN 网络共享打印一体机** - [软件](http://prosystem.panasonic.cn/inc/download.ashx?n=/upload/bangong/1/KX-MB2138CN/KX-MB2138CN%20Windows%E9%A9%B1%E5%8A%A8.zip)和[驱动程序](http://prosystem.panasonic.cn/OA/download.html?act=search) | [说明书](http://prosystem.panasonic.cn/inc/download.ashx?n=/upload/bangong/1/KX-MB2138CN/KX-MB2138CN%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf)（ [MFS2100_105_CHS](http://panasonic.cn/support/download/manual/files/201511/MFS2100_105_CHS.zip) ）
 
@@ -47,4 +46,20 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
  
 - **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
 
+# 故障与维护：
+- [**Win7打印机共享出现错误0x000006d9如何解决**](https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html) - 百度经验
 
+> 问题原因：防火墙windows firewall服务未开启。<br>
+> 解决方法：开启windows firewall服务。
+```
+方法一
+1打开控制面板，找到并打开管理工具，在管理工具中找到并双击组件服务。
+2点击左侧边栏的服务，在出现的服务列表找到并鼠标右键单击windows firewall，选择启用命令。
+
+方法二
+右键单击计算机，选择管理。在管理界面，打开服务和应用程序下的服务选项，在出现的服务列表中找到并右键单击windows firewall，选择启用命令。
+
+方法三
+在控制面板列表下，找到并打开windows防火墙选项。
+通过使用推荐设置或启用windows防火墙功能，启用防火墙。
+```

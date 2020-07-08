@@ -62,28 +62,11 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 --------------------------------------------------------------------------
 
-- [Windows 7 无法保存打印机设置(**错误代码 0x000006d9**)解决方法](http://www.jb51.net/os/windows/77770.html)_脚本之家
-
-> 
-> 　　目标：打开“**Windows Firewall**“服务即可
->        [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：
-> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
-
-
-
-- [**Win7打印机共享出现错误0x000006d9如何解决**](https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html) - 百度经验
-
+- [Windows 7 无法保存打印机设置(**错误代码 0x000006d9**)解决方法](http://www.jb51.net/os/windows/77770.html) _ [**脚本之家**](http://www.jb51.net/) | [**百度经验**](https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html)
 > 问题原因：防火墙windows firewall服务未开启。<br>
 > 解决方法：开启windows firewall服务。
-```
-方法一
-1打开控制面板，找到并打开管理工具，在管理工具中找到并双击组件服务。
-2点击左侧边栏的服务，在出现的服务列表找到并鼠标右键单击windows firewall，选择启用命令。
+> 
+>> 　　目标：打开“**Windows Firewall**“服务即可
+>>>        [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：<br>
+>>> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
 
-方法二
-右键单击计算机，选择管理。在管理界面，打开服务和应用程序下的服务选项，在出现的服务列表中找到并右键单击windows firewall，选择启用命令。
-
-方法三
-在控制面板列表下，找到并打开windows防火墙选项。
-通过使用推荐设置或启用windows防火墙功能，启用防火墙。
-```

@@ -32,6 +32,10 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 <hr>
 
+- [**针式打印机 | 中盈新斯大 NX-725**](http://driver.zol.com.cn/down/460172_6_9_dxxz.shtml?origin=y) - [**驱动和软件下载**](http://driver.zol.com.cn/down/460172_6_9_gwxz1.shtml?origin=y) | [**中盈打印机驱动**](http://driver.zol.com.cn/print_drivers/35196_page_1.html) - @[ZOL中关村在线](http://driver.zol.com.cn/detail/47/460172.shtml)
+```
+（仓库F's）打印机共享 \\192.168.0.*\
+```
 - [**黑白激光一体机| Brother 兄弟 DCP-7057**](https://www.brother.cn/printer/fb/dcp-7057) - [**驱动和软件**](http://www.95105369.com/Web/DownloadDisp.aspx?852a5a9a282e83a5b831336d05016c732a39722578c354fb535d96d099ae2040) | [**Brother 兄弟**](https://www.brother.cn/)  
 
 [Reliancejk](https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak) :

@@ -76,7 +76,7 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 --------------------------------------------------------------------------
 
-# Tips:
+# Tips: [WeChat 分身多开](https://github.com/taoste/Hello-World/blob/master/Tools/Wechat/ReadMe.md)
 
 - **韩国文件格式hwp文件阅读器 HwpViewer** 2002 官方版 / [备份下载](https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E9%9F%A9%E5%9B%BD%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8Fhwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8%20HwpViewer.zip) [ 文件阅读 ] - @[华军软件园](https://www.onlinedown.net/soft/634224.htm)  @[ZOL](http://xiazai.zol.com.cn/detail/47/464754.shtml)-[软件下载](http://down10.zol.com.cn/20190311/464754.zip) 
 

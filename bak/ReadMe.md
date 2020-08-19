@@ -71,7 +71,7 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 > 解决方法：开启windows firewall服务。
 > 
 >> 　　目标：打开“**Windows Firewall**“服务即可
->>>        [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：<br>
+>>>    [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：<br>
 >>> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
 
 --------------------------------------------------------------------------

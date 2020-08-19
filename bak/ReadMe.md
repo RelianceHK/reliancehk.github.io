@@ -76,4 +76,6 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 --------------------------------------------------------------------------
 
-- 韩国文件格式hwp文件阅读器 HwpViewer 2002 官方版[下载](http://on232.d.aldcup.com/download/hwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8HwpViewer_014634224.exe) [ 文件阅读 ] - @[华军软件园](https://www.onlinedown.net/soft/634224.htm) 
+- 韩国文件格式hwp文件阅读器 HwpViewer 2002 官方版[下载](http://on232.d.aldcup.com/download/hwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8HwpViewer_014634224.exe) [ 文件阅读 ] - @[华军软件园](https://www.onlinedown.net/soft/634224.htm)  @[ZOL软件下载](http://xiazai.zol.com.cn/detail/47/464754.shtml) 
+
+> hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 

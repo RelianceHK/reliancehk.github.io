@@ -74,3 +74,6 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 >>>        [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：<br>
 >>> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
 
+--------------------------------------------------------------------------
+
+- 韩国文件格式hwp文件阅读器 HwpViewer 2002 官方版[下载](http://on232.d.aldcup.com/download/hwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8HwpViewer_014634224.exe) [ 文件阅读 ] - @[华军软件园](https://www.onlinedown.net/soft/634224.htm) 

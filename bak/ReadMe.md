@@ -120,8 +120,8 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 >>> 2.2 **WPS表格**和**WPS演示**的**默认文件类型**分别**为*.et和*.dps**
 
->>>> **HKEY_CLASSES_ROOT\.et** ，在**KET.Workbook.9**下新建**ShellNew**，并在右侧窗格新建** NullFile **;<br> 
->>>> **HKEY_CLASSES_ROOT\.dps** ，在**KWPP.Presentation.9**下新建**ShellNew**，并在右侧窗格新建**NullFile** 。
+>>>> **HKEY_CLASSES_ROOT\.et** ，在**KET.Workbook.9**下新建 **ShellNew**，并在右侧窗格新建**NullFile**;<br> 
+>>>> **HKEY_CLASSES_ROOT\.dps** ，在**KWPP.Presentation.9**下新建 **ShellNew** ，并在右侧窗格新建 **NullFile** 。
 
 ☞ **解决方法（二）**
 

@@ -117,24 +117,19 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 <b>韩国文件格式hwp文件阅读器 HwpViewer</b> 2002 官方版 / <a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E9%9F%A9%E5%9B%BD%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8Fhwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8%20HwpViewer.zip">备份下载</a> [ 文件阅读 ] - 
 @<a href="https://www.onlinedown.net/soft/634224.htm">华军软件园</a>
 @<a href="http://xiazai.zol.com.cn/detail/47/464754.shtml">ZOL</a>-<a href="http://down10.zol.com.cn/20190311/464754.zip">软件下载</a>
-</summary> 
-> hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 
-> hwp文件阅读器HwpViewer软件说明:
+</summary> <br>
+> hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 <br>
+> hwp文件阅读器HwpViewer软件说明:<br>
 ```
       1、hwpviewer生成的文档格式不是.doc，也不是.docx等等，而是它独有的.hwp格式。
-
       2、韩国网站下载到的资料大部分都是.hwp格式，想要看更多的韩国文档安装这款软件就是必需的啦!
-
       3、hwpviewer和微软的word相比，还有很多独特的功能。
-
       4、如果仅需要查看和打印HWP文档，无需进行编辑和制作，则可以安装HWP文件阅读器。
 ```
 > hwp文件阅读器HwpViewer软件功能
 ```
       1、支持中文简体、繁体的自由输入
-
       2、支持英文、日本、韩文等外语的输入
-
       3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 
 ```
 </details>
@@ -147,24 +142,18 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 </summary> 
 <li><b> ☞ 解决方法（一）</b></li>
 
- 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。
-
- 2.【操作方法】WPS添加“建立右键新建菜单”：
-
- 2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps
-
+ 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br>
+ 2.【操作方法】WPS添加“建立右键新建菜单”：<br>
+ 2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps<br><br>
  <b>HKEY_CLASSES_ROOT</b>\ 下WPS文字的默认文件类型.wps点击刚才创建的“ShellNew”项，在右侧窗格，新建“字符串值”，请改名为“ <b>NullFile</b>”。<br>
  在<b>HKEY_CLASSES_ROOT\.wps</b>下的主键（也称为“项”）“<b>KWPS.Document.9</b>”下新建一个主键（项），并改名为“ <b>ShellNew</b> ”。<br>
  (回到桌面，F5刷新桌面，打开一次鼠标右键新建菜单，然后取消，再次打开新建菜单时会发现已经出现一个“WPS文字 文档”项目。
- 如果没有出现，可以尝试重启电脑。)
-
- 2.2 <b>WPS表格</b>和<b>WPS演示</b>的<b>默认文件类型分别</b>为<b>*.et和*.dps</b>
-
+ 如果没有出现，可以尝试重启电脑。)<br><br>
+ 2.2 <b>WPS表格</b>和<b>WPS演示</b>的<b>默认文件类型分别</b>为<b>*.et和*.dps</b><br>
 >>>> <b>HKEY_CLASSES_ROOT\.et</b> ，在<b>KET.Workbook.9</b>下新建 <b>ShellNew</b>，并在右侧窗格新建<b>NullFile</b>;<br> 
->>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。
-
+>>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。<br><br>
 <li><b>☞ 解决方法（二）</b></li>
-
 > <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案"  />
 </details>
+
 -------------------------------------------------------

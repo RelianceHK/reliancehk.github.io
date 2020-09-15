@@ -77,14 +77,15 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
  
 - **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
 
-# [Tips](https://github.com/taoste/taoste.github.io/issues/10) 故障与维护：
-
-- 电脑无法连接共享打印机，在添加打印机时提示 错误代码**0x00000569** 
-
-> 0x00000569:未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。
-> 
-> 解决方法：
-> 开始运行gpedit.msc，打开组策略，找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“用户权限分配”，在右边的策略中找到“拒绝从网络访问这 台计算机”，把Guest删除、保存即可。
+<details>
+<summary>
+<a href="https://github.com/taoste/taoste.github.io/issues/10">Tips</a>s故障与维护：
+</summary> 
+<li> 电脑无法连接共享打印机，在添加打印机时提示 错误代码<b>0x00000569</b> </li>
+0x00000569:未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 
+<b> 解决方法：</b><br>
+开始运行gpedit.msc，打开组策略，找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“用户权限分配”，在右边的策略中找到“拒绝从网络访问这 台计算机”，把Guest删除、保存即可。
+</details>
 
 --------------------------------------------------------------------------
 
@@ -127,30 +128,33 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
       3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 
 ```
+
 -------------------------------------------------------
 
-- [Tips](https://github.com/taoste/Hello-World/blob/master/Tools/PPT%E6%8A%95%E5%BD%B1%E6%BC%94%E7%A4%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7/):[**新版WPS建立右键新建菜单**](https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html) -百度经验
+<details>
+<summary>
+<a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">Tips</a><b>新版WPS建立右键新建菜单</b>-百度经验：
+</summary> 
+<li><b> ☞ 解决方法（一）</b></li>
 
-☞ **解决方法（一）**
+ 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。
 
->> 1.打开**开始**菜单-运行，输入: **regedit**，打开**注册表编辑器**。
+ 2.【操作方法】WPS添加“建立右键新建菜单”：
 
->> 2.【操作方法】WPS添加“建立右键新建菜单”：
+ 2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps
 
->>> 2.1 **WPS文字**的**默认文件类型**为*.wps
+ <b>HKEY_CLASSES_ROOT</b>\ 下WPS文字的默认文件类型.wps点击刚才创建的“ShellNew”项，在右侧窗格，新建“字符串值”，请改名为“ <b>NullFile</b>”。<br>
+ 在<b>HKEY_CLASSES_ROOT\.wps</b>下的主键（也称为“项”）“<b>KWPS.Document.9</b>”下新建一个主键（项），并改名为“ <b>ShellNew</b> ”。<br>
+ (回到桌面，F5刷新桌面，打开一次鼠标右键新建菜单，然后取消，再次打开新建菜单时会发现已经出现一个“WPS文字 文档”项目。
+ 如果没有出现，可以尝试重启电脑。)
 
->>>> **HKEY_CLASSES_ROOT**\ 下WPS文字的默认文件类型.wps点击刚才创建的“ShellNew”项，在右侧窗格，新建“字符串值”，请改名为“ **NullFile**”。<br>
->>>> 在**HKEY_CLASSES_ROOT\.wps**下的主键（也称为“项”）“**KWPS.Document.9**”下新建一个主键（项），并改名为“ **ShellNew** ”。<br>
->>>> (回到桌面，F5刷新桌面，打开一次鼠标右键新建菜单，然后取消，再次打开新建菜单时会发现已经出现一个“WPS文字 文档”项目。
->>>> 如果没有出现，可以尝试重启电脑。)
+ 2.2 <b>WPS表格</b>和<b>WPS演示</b>的<b>默认文件类型分别</b>为<b>*.et和*.dps</b>
 
->>> 2.2 **WPS表格**和**WPS演示**的**默认文件类型**分别**为*.et和*.dps**
+>>>> <b>HKEY_CLASSES_ROOT\.et</b> ，在<b>KET.Workbook.9</b>下新建 <b>ShellNew</b>，并在右侧窗格新建<b>NullFile</b>;<br> 
+>>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。
 
->>>> **HKEY_CLASSES_ROOT\.et** ，在**KET.Workbook.9**下新建 **ShellNew**，并在右侧窗格新建**NullFile**;<br> 
->>>> **HKEY_CLASSES_ROOT\.dps** ，在**KWPP.Presentation.9**下新建 **ShellNew** ，并在右侧窗格新建 **NullFile** 。
-
-☞ **解决方法（二）**
+<li><b>☞ 解决方法（二）</b></li>
 
 > <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案"  />
-
+</details>
 -------------------------------------------------------

@@ -118,20 +118,17 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 @<a href="https://www.onlinedown.net/soft/634224.htm">华军软件园</a>
 @<a href="http://xiazai.zol.com.cn/detail/47/464754.shtml">ZOL</a>-<a href="http://down10.zol.com.cn/20190311/464754.zip">软件下载</a>
 </summary> <br>
-> hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 <br>
-> hwp文件阅读器HwpViewer软件说明:<br>
-```
-      1、hwpviewer生成的文档格式不是.doc，也不是.docx等等，而是它独有的.hwp格式。
-      2、韩国网站下载到的资料大部分都是.hwp格式，想要看更多的韩国文档安装这款软件就是必需的啦!
-      3、hwpviewer和微软的word相比，还有很多独特的功能。
-      4、如果仅需要查看和打印HWP文档，无需进行编辑和制作，则可以安装HWP文件阅读器。
-```
-> hwp文件阅读器HwpViewer软件功能
-```
-      1、支持中文简体、繁体的自由输入
-      2、支持英文、日本、韩文等外语的输入
-      3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 
-```
+ hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 <br><br>
+ <li>hwp文件阅读器HwpViewer软件说明: </li>
+      1、hwpviewer生成的文档格式不是.doc，也不是.docx等等，而是它独有的.hwp格式。<br>
+      2、韩国网站下载到的资料大部分都是.hwp格式，想要看更多的韩国文档安装这款软件就是必需的啦!<br>
+      3、hwpviewer和微软的word相比，还有很多独特的功能。<br>
+      4、如果仅需要查看和打印HWP文档，无需进行编辑和制作，则可以安装HWP文件阅读器。<br>
+<br>
+<li>hwp文件阅读器HwpViewer软件功能</li>
+      1、支持中文简体、繁体的自由输入<br>
+      2、支持英文、日本、韩文等外语的输入<br>
+      3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 <br>
 </details>
 
 -------------------------------------------------------

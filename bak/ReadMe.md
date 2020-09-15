@@ -80,9 +80,9 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 <details>
 <summary>
 <a href="https://github.com/taoste/taoste.github.io/issues/10">Tips</a>s故障与维护：
-</summary> 
-<li> 电脑无法连接共享打印机，在添加打印机时提示 错误代码<b>0x00000569</b> </li>
-0x00000569:未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 
+ <li> 电脑无法连接共享打印机，在添加打印机时提示 错误代码<b>0x00000569</b> </li>
+</summary> <br>
+<b>0x00000569：</b>未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 <br>
 <b> 解决方法：</b><br>
 开始运行gpedit.msc，打开组策略，找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“用户权限分配”，在右边的策略中找到“拒绝从网络访问这 台计算机”，把Guest删除、保存即可。
 </details>

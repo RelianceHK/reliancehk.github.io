@@ -135,7 +135,7 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 <details>
 <summary>
-<a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">Tips</a><b>新版WPS建立右键新建菜单</b>-百度经验：
+<a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">Tips</a>:<b>新版WPS建立右键新建菜单</b>-百度经验：
 </summary> 
 <li><b> ☞ 解决方法（一）</b></li>
 

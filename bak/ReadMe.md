@@ -94,22 +94,31 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 --------------------------------------------------------------------------
 
-- [Windows 7 无法保存打印机设置(**错误代码 0x000006d9**)解决方法](http://www.jb51.net/os/windows/77770.html) _ [**脚本之家**](http://www.jb51.net/) | [**百度经验**](https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html)
+<details>
+    <summary>
+    <a href="http://www.jb51.net/os/windows/77770.html">Windows 7 无法保存打印机设置(错误代码<b>0x000006d9</b>)解决方法</a>
+     - <a href="http://www.jb51.net/">脚本之家</a>
+      @<a href="https://jingyan.baidu.com/article/380abd0a4cd01d1d90192c0e.html">百度经验</a>
+     </summary> 
 > 问题原因：防火墙windows firewall服务未开启。<br>
-> 解决方法：开启windows firewall服务。
+> 解决方法：开启windows firewall服务。<br>
 > 
->> 　　目标：打开“**Windows Firewall**“服务即可
->>>    [方法/步骤](http://www.niubb.com/yuedu/170623/21426397.html)：<br>
->>> 　　右键“计算机”--“管理”--“服务”--找到“**Windows Firewall**“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
+>> 　　目标：打开“</b>Windows Firewall</b>”服务即可<br>
+>>>    <a href="http://www.niubb.com/yuedu/170623/21426397.html">方法/步骤</a>：<br>
+>>> 　　右键“计算机”--“管理”--“服务”--找到“<b>Windows Firewall</b>“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
+</details>
 
 --------------------------------------------------------------------------
 
 # Tips: [WeChat 分身多开](https://github.com/taoste/Hello-World/blob/master/Tools/Wechat/ReadMe.md)
 
-- **韩国文件格式hwp文件阅读器 HwpViewer** 2002 官方版 / [备份下载](https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E9%9F%A9%E5%9B%BD%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8Fhwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8%20HwpViewer.zip) [ 文件阅读 ] - @[华军软件园](https://www.onlinedown.net/soft/634224.htm)  @[ZOL](http://xiazai.zol.com.cn/detail/47/464754.shtml)-[软件下载](http://down10.zol.com.cn/20190311/464754.zip) 
-
+<details>
+<summary>
+<b>韩国文件格式hwp文件阅读器 HwpViewer</b> 2002 官方版 / <a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E9%9F%A9%E5%9B%BD%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8Fhwp%E6%96%87%E4%BB%B6%E9%98%85%E8%AF%BB%E5%99%A8%20HwpViewer.zip">备份下载</a> [ 文件阅读 ] - 
+@<a href="https://www.onlinedown.net/soft/634224.htm">华军软件园</a>
+@<a href="http://xiazai.zol.com.cn/detail/47/464754.shtml">ZOL</a>-<a href="http://down10.zol.com.cn/20190311/464754.zip">软件下载</a>
+</summary> 
 > hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 
-
 > hwp文件阅读器HwpViewer软件说明:
 ```
       1、hwpviewer生成的文档格式不是.doc，也不是.docx等等，而是它独有的.hwp格式。
@@ -128,6 +137,7 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
       3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 
 ```
+</details>
 
 -------------------------------------------------------
 

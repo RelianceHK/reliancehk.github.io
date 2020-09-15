@@ -8,10 +8,16 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 
 <hr>
 
-- 请帮我们公司域名上设置一个[二级子域名](https://support.lancentjk.com/)：support.reliancejk.com
-
-> 【设置参数】 <br>
->> 主机记录：support  <br>类型：CNAME  <br>记录值：RelianceHK.github.io (请注意是hk,不是jk)
+<details>
+<summary>
+<b>二级子域名 <a href="https://support.lancentjk.com/">support.reliancejk.com</a></b>
+</summary> <br>  
+<li> 公司二级子域名设置：<a href="https://support.lancentjk.com/">support.reliancejk.com</a> </li>
+ <b>【设置参数】 </b><br>
+ 主机记录：<b>support</b>  <br>
+ 类型：<b>CNAME</b>  <br>
+ 记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)
+</details>
 
 -----------------------------------------------------
 

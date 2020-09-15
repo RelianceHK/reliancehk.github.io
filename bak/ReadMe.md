@@ -13,11 +13,11 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 > 【设置参数】 <br>
 >> 主机记录：support  <br>类型：CNAME  <br>记录值：RelianceHK.github.io (请注意是hk,不是jk)
 
-<hr>
-
 -----------------------------------------------------
-
-【阿里云】尊敬的用户：您好，感谢您致电阿里云
+<details>
+<summary>
+【阿里云】尊敬的用户：您好，感谢您致电 <a href="https://www.aliyun.com/">阿里云</a>
+</summary> 
 
 阿里云备案前期准备，请点此查看详情：http://a.aliyun.com/f1.kplfp
 
@@ -30,7 +30,7 @@ https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
 如域名已在其他接入商完成备案，需将备案接入阿里云，请参考：http://a.aliyun.com/f1.kGmE9
 
 如需获取更多帮助，请您登陆阿里云官网，点击联系我们—智能在线进行咨询。
-
+</details>
 -----------------------------------------------------
 
 **Tips: "/Tools/打印复印扫描一体机驱动/"**

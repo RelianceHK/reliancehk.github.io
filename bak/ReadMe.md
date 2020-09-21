@@ -1,6 +1,26 @@
-
-
-https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf
+<details>
+    <summary>
+    <b>1.数码相机 2.摄录一体机： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
+     </summary> 
+       &nbsp; &nbsp; &nbsp;
+   <table> 
+       <tr> 
+         <td><a href="http://detail.zol.com.cn/digital_camera/index231069.shtml" title="【佳能600D 单机】报价_参数_图片_论坛_(Canon)佳能 EOS 600D,EOS600D,600D单机,EOS 600D单机报价-ZOL中关村在线"><img src="https://2f.zol-img.com.cn/product/59/601/ceWwmmD0aew6w.jpg" height="350" width="450" /></a>
+        </td>        
+         <td>
+           <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf">佳能 EOS 600D(快速参考指南).pdf</a></li><br>
+           <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20说明书(简体中文).pdf" title="佳能(Canon)EOS 600D 说明书(简体中文).pdf">佳能(Canon)EOS 600D 说明书(简体中文).pdf</a></li><br>
+           <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20的九大核心技巧.pdf" title="佳能(Canon)EOS 600D 的九大核心技巧.pdf">佳能(Canon)EOS 600D 的九大核心技巧.pdf</a></li><br>
+             </td>
+      </tr> 
+      <tr> 
+             <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="350" width="450"" /></a></td>
+             <td>
+              <li><a href="https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a></li><br>
+              <li><a href="https://pro.sony/s3/2020/02/13104508/5011799612_CS.pdf" title="【官网】Sony 存储卡摄录一体机 PXW-Z750 使用说明书">【其它型号】Sony 存储卡摄录一体机 PXW-Z750 使用说明书</a></li></td>
+      </tr> 
+    </table> 
+</details>
 
 联连客户端——用户登录 ：https://oauth.idinfo.cn/login.jsp
 

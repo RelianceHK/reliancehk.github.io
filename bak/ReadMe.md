@@ -5,7 +5,7 @@
        &nbsp; &nbsp; &nbsp;
    <table> 
        <tr> 
-         <td><a href="http://detail.zol.com.cn/digital_camera/index231069.shtml" title="【佳能600D 单机】报价_参数_图片_论坛_(Canon)佳能 EOS 600D,EOS600D,600D单机,EOS 600D单机报价-ZOL中关村在线"><img src="https://2f.zol-img.com.cn/product/59/601/ceWwmmD0aew6w.jpg" height="350" width="450" /></a>
+         <td><a href="http://detail.zol.com.cn/digital_camera/index231069.shtml" title="【佳能600D 单机】报价_参数_图片_论坛_(Canon)佳能 EOS 600D,EOS600D,600D单机,EOS 600D单机报价-ZOL中关村在线"><img src="https://2f.zol-img.com.cn/product/59/601/ceWwmmD0aew6w.jpg" height="250" width="350" /></a>
         </td>        
          <td>
            <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf">佳能 EOS 600D(快速参考指南).pdf</a></li><br>
@@ -14,7 +14,7 @@
              </td>
       </tr> 
       <tr> 
-             <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="350" width="450"" /></a></td>
+             <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="250" width="350"" /></a></td>
              <td>
               <li><a href="https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a></li><br>
               <li><a href="https://pro.sony/s3/2020/02/13104508/5011799612_CS.pdf" title="【官网】Sony 存储卡摄录一体机 PXW-Z750 使用说明书">【其它型号】Sony 存储卡摄录一体机 PXW-Z750 使用说明书</a></li></td>
@@ -61,7 +61,12 @@
 
 -----------------------------------------------------
 
-**Tips: "/Tools/打印复印扫描一体机驱动/"**
+<details>
+    <summary>
+    <b>Tips:<a href=""> "/Tools/打印复印扫描一体机驱动/" </a></b>
+     </summary> 
+       &nbsp; &nbsp; &nbsp;
+   <table> 
 
 - [理光ricoh mp c2010彩色打印一体机驱动](https://github.com/taoste/Hello-World/blob/master/Tools/打印复印扫描一体机驱动/理光ricoh%20mp%20c2010彩色打印一体机驱动)
 
@@ -96,10 +101,13 @@
   > **HP LaserJet 专业 M1213nf 多功能打印机** - [软件和驱动程序](http://support.hp.com/cn-zh/product/HP-LaserJet-M1200-Multifunction-Printer-series/5071505/model/4075454/drivers)
  
 - **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
+</tr> 
+    </table> 
+</details>
 
 <details>
 <summary>
-<a href="https://github.com/taoste/taoste.github.io/issues/10">Tips</a>s故障与维护：
+<a href="https://github.com/taoste/taoste.github.io/issues/10">Tips</a>:故障与维护：
  <li> 电脑无法连接共享打印机，在添加打印机时提示 错误代码<b>0x00000569</b> </li>
 </summary> <br>
 <b>0x00000569：</b>未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 <br>

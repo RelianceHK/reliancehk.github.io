@@ -1,7 +1,8 @@
 <details>
     <summary>
-    <b>1.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA" title="佳能(Canon)EOS 600D 单反相机">数码单反相机</a> 
-        2.摄录一体机： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
+    <b>1.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/" title="佳能(Canon)EOS 600D 单反相机">数码单反相机</a> 
+        2.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/索尼(Sony)存储卡摄录一体机/" title="佳能(Canon)EOS 600D 单反相机">摄录一体机</a>
+        ： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
      </summary> 
        &nbsp; &nbsp; &nbsp;
    <table> 
@@ -19,7 +20,7 @@
       <tr> 
              <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="250" width="350"" /></a></td>
              <td>
-              <li><a href="https://reliancehk.github.io/bak/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a></li><br>
+              <li><a href="https://reliancehk.github.io/bak/索尼(Sony)存储卡摄录一体机/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a></li><br>
               <li><a href="https://pro.sony/s3/2020/02/13104508/5011799612_CS.pdf" title="【官网】Sony 存储卡摄录一体机 PXW-Z750 使用说明书">【其它型号】Sony 存储卡摄录一体机 PXW-Z750 使用说明书</a></li></td>
       </tr> 
     </table> 

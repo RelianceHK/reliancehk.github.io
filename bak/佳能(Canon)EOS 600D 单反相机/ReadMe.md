@@ -30,8 +30,8 @@
 >> EOS 600D 固件更新，版本1.0.3 [Windows] <br>
 >> 最近更新 ： 14-Nov-2016 <br>
 >> 发行编号 ： 0400283305 <br>
->> 固件下载 ： <a href="https://gdlp01.c-wss.com/gds/3/0400002833/01/v103-t3i-600d-x5-win.zipp">Download</a>/<a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/EOS%20600D%20%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0%EF%BC%8C%E7%89%88%E6%9C%ACv1.0.3-t3i-600d-x5-win/EOS%20600D%20%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0%EF%BC%8C%E7%89%88%E6%9C%ACv1.0.3-t3i-600d-x5-win.zip">本地备份</a>
+>> 固件下载 ： <a href="https://gdlp01.c-wss.com/gds/3/0400002833/01/v103-t3i-600d-x5-win.zipp">Download</a>/<a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/EOS%20600D%20%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0%EF%BC%8C%E7%89%88%E6%9C%ACv1.0.3-t3i-600d-x5-win/EOS%20600D%20%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0%EF%BC%8C%E7%89%88%E6%9C%ACv1.0.3-t3i-600d-x5-win.zip">本地备份</a><br><br>
 
-【摄影】：
+【摄影】：<br>
 
 <li><a href="http://www.ganlantu.com/course/186" title="">怎样把图片缩小到制定大小？</b> - <a href="http://www.ganlantu.com/course/explore/mianfei" title="免费课程 | 橄榄图摄影课堂">橄榄图摄影课堂</b></li>

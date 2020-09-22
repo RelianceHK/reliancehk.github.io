@@ -9,8 +9,7 @@
        <tr> 
          <td><a href="http://detail.zol.com.cn/digital_camera/index231069.shtml" title="【佳能600D 单机】报价_参数_图片_论坛_(Canon)佳能 EOS 600D,EOS600D,600D单机,EOS 600D单机报价-ZOL中关村在线"><img src="https://2f.zol-img.com.cn/product/59/601/ceWwmmD0aew6w.jpg" height="250" width="350" /></a>
         </td>        
-         <td>
-             <li><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》<a href="https://emacsist.github.io/2015/10/27/%E5%8D%95%E5%8F%8D%E5%AD%A6%E4%B9%A0/" title="单反学习 - emacsist">笔记1</a>/<a href="https://sunblognuke.github.io/2015/11/27/Photography-Learning/" title="摄影学习备忘 | Baldwin's Blog">2</a></li><br>
+         <td>            
            <li> 【<a href="http://www.canon.com.cn/Public/search/#/search?query=EOS%20600D" title="佳能 EOS 600D - 搜索结果 | 佳能(中国)">官网</a>】<a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20单反相机/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf"><b>佳能 EOS 600D</b>(快速参考指南).pdf</a></li><br>
            <li><a href="https://www.canon.com.cn/supports/download/simsdetail/0300478601.html" title="EOS 600D 使用说明书 | 佳能（中国） - 服务与支持">佳能</a>(<a href="https://gdlp01.c-wss.com/gds/6/0300004786/04/eos600d-im3-zh.pdf" title="【PDF：eos600d-im3-zh.pdf】EOS 600D 使用说明书 | 佳能（中国） - 服务与支持">Canon</a>)<a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20单反相机/佳能(Canon)EOS%20600D%20说明书(简体中文).pdf" title="佳能(Canon)EOS 600D 说明书(简体中文).pdf">EOS 600D 说明书(简体中文).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20单反相机/佳能(Canon)EOS%20600D%20的九大核心技巧.pdf" title="佳能(Canon)EOS 600D 的九大核心技巧.pdf">佳能(Canon)EOS 600D 的九大核心技巧.pdf</a></li><br>
@@ -34,4 +33,6 @@
 
 【摄影】：<br>
 
-<li><a href="http://www.ganlantu.com/course/186" title="">怎样把图片缩小到制定大小？</b> - <a href="http://www.ganlantu.com/course/explore/mianfei" title="免费课程 | 橄榄图摄影课堂">橄榄图摄影课堂</b></li>
+ <li><b><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》<a href="https://emacsist.github.io/2015/10/27/%E5%8D%95%E5%8F%8D%E5%AD%A6%E4%B9%A0/" title="单反学习 - emacsist">笔记1</a>/<a href="https://sunblognuke.github.io/2015/11/27/Photography-Learning/" title="摄影学习备忘 | Baldwin's Blog">2</a></b></li><br>
+ 
+<li><b><a href="http://www.ganlantu.com/course/186" title="">怎样把图片缩小到制定大小？</a> | <a href="http://www.ganlantu.com/course/703">【免费】Photoshop后期初级班（试听体验课）</a>  - <a href="http://www.ganlantu.com/course/explore/mianfei" title="免费课程 | 橄榄图摄影课堂">橄榄图摄影课堂</a></b></li><br>

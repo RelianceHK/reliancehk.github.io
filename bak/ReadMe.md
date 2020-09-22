@@ -8,7 +8,7 @@
          <td><a href="http://detail.zol.com.cn/digital_camera/index231069.shtml" title="【佳能600D 单机】报价_参数_图片_论坛_(Canon)佳能 EOS 600D,EOS600D,600D单机,EOS 600D单机报价-ZOL中关村在线"><img src="https://2f.zol-img.com.cn/product/59/601/ceWwmmD0aew6w.jpg" height="250" width="350" /></a>
         </td>        
          <td>
-             <li><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》<a href="https://emacsist.github.io/2015/10/27/%E5%8D%95%E5%8F%8D%E5%AD%A6%E4%B9%A0/" title="单反学习 - emacsist">笔记</a></li><br>
+             <li><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》<a href="https://emacsist.github.io/2015/10/27/%E5%8D%95%E5%8F%8D%E5%AD%A6%E4%B9%A0/" title="单反学习 - emacsist">笔记1</a>/<a href="https://sunblognuke.github.io/2015/11/27/Photography-Learning/" title="摄影学习备忘 | Baldwin's Blog">2</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf"><b>佳能 EOS 600D</b>(快速参考指南).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20说明书(简体中文).pdf" title="佳能(Canon)EOS 600D 说明书(简体中文).pdf">佳能(Canon)EOS 600D 说明书(简体中文).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20的九大核心技巧.pdf" title="佳能(Canon)EOS 600D 的九大核心技巧.pdf">佳能(Canon)EOS 600D 的九大核心技巧.pdf</a></li><br>

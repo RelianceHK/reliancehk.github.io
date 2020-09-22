@@ -9,10 +9,10 @@
         </td>        
          <td>
              <li><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》</li><br>
-           <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf">佳能 EOS 600D(快速参考指南).pdf</a></li><br>
+           <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf"><b>佳能 EOS 600D</b>(快速参考指南).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20说明书(简体中文).pdf" title="佳能(Canon)EOS 600D 说明书(简体中文).pdf">佳能(Canon)EOS 600D 说明书(简体中文).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20的九大核心技巧.pdf" title="佳能(Canon)EOS 600D 的九大核心技巧.pdf">佳能(Canon)EOS 600D 的九大核心技巧.pdf</a></li><br>
-           <li><a href="http://detail.zol.com.cn/digital_camera/index157973.shtml" title="【佳能5D Mark II】报价_参数_图片_论坛_(Canon)佳能 无敌兔,5D2,5DII,5D mark2,EOS 5D Mark II报价-ZOL中关村在线">无敌兔</a> : <a href="https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_II" title="全片幅机型:佳能(Canon) EOS 5D Mark II (常被称为“无敌兔”,发布于2008年9月17日) - 维基百科，自由的百科全书">佳能(Canon) EOS 5D Mark II</a></li><br>             
+           <li>【其它】<a href="http://detail.zol.com.cn/digital_camera/index157973.shtml" title="【佳能5D Mark II】报价_参数_图片_论坛_(Canon)佳能 无敌兔,5D2,5DII,5D mark2,EOS 5D Mark II报价-ZOL中关村在线">无敌兔</a> : <b><a href="https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_II" title="全片幅机型:佳能(Canon) EOS 5D Mark II (常被称为“无敌兔”,发布于2008年9月17日) - 维基百科，自由的百科全书">佳能(Canon) EOS 5D Mark II</a></b></li><br>             
          </td>
       </tr> 
       <tr> 

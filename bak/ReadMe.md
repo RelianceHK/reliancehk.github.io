@@ -1,6 +1,7 @@
 <details>
     <summary>
-    <b>1.数码相机 2.摄录一体机： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
+    <b>1.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA" title="佳能(Canon)EOS 600D 单反相机">数码单反相机</a> 
+        2.摄录一体机： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
      </summary> 
        &nbsp; &nbsp; &nbsp;
    <table> 

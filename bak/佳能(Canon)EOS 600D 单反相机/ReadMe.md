@@ -25,6 +25,28 @@
     </table> 
 </details>
 
+<table> 
+  <tr> 
+   <td>
+<li>镜头标识</li>
+       
+·18-55mm·: 可用的焦距范围.<br>
+<br>
+·EF-S·: 只能用于非全画幅的佳能EF卡口的单反.<br>
+<br>
+·1:3.5-5.6·: 表示最小焦距时, 能使用的最大光圈为3.6. 最大焦距时, 能使用的最大光圈为5.6.<br>
+<br>
+·1:4·: 表示无论焦距是什么范围, 都可以使用的最大光圈为4.<br>
+<br>
+·IS·: 佳能防抖镜头.<br>
+<br>
+·Φ58mm·: 表示镜头的口径. (备注：数字符号fai即Φ，小写是φ，是希腊字母第21个字母，英文读音phi，国际音标/fai/。 表示磁通，角，透镜焦度，热流量。 Φ可以用搜狗拼音输入法的特殊字符打出来。)<br>
+<br>
+`EF`: 佳能的通用镜头. 可用于全画幅, 也可用于非全画幅. <br>
+</td>
+      </tr> 
+    </table> 
+    
 <li><b><a href="https://www.canon.com.cn/supports/download/simsdetail/0400283305.html" title="">佳能（中国） - 服务与支持</a> : 《<a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20单反相机/EOS%20600D%20固件更新，版本v1.0.3-t3i-600d-x5-win/600d_t3i_x5-firmwareupdate-zh.pdf" title="">EOS 600D 固件更新步骤.pdf</a>》</b></li>
 >> EOS 600D 固件更新，版本1.0.3 [Windows] <br>
 >> 最近更新 ： 14-Nov-2016 <br>

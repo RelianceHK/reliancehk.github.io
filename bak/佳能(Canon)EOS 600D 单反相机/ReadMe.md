@@ -86,7 +86,7 @@
 
 <details>
 <summary>
-    <b>1.<a href="https://zerosoul.github.io/2016/01/25/shoot-the-meeting/" title="会议&活动拍摄备忘录 | 杨二小">会议&活动拍摄备忘录 | 杨二小</a></b>
+    <b>1.<a href="https://zerosoul.github.io/2016/01/25/shoot-the-meeting/" title="会议&活动拍摄备忘录 | 杨二小">会议&活动拍摄备忘录 | 杨二小</a>（ 其它：<a href="https://zerosoul.github.io/2015/11/05/build-personal-site-with-hexo-and-github-pages/" title="科学地使用 Hexo 和 Github Pages 装X">科学地使用 Hexo 和 Github Pages 装X</a>）</b>
     </summary>
      发表于 2016-01-25 <br>
  <table> 

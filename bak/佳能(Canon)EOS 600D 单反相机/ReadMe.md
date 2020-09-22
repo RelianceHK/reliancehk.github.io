@@ -35,6 +35,9 @@
 
  <li><b><a href="https://www.51zxw.net/list.aspx?cid=569" title="单反相机视频教程-我要自学网">单反相机视频教程</a> 《<a href="https://www.51zxw.net/Show.aspx?cid=569&id=52127" title="单反相机视频教程-我要自学网">5-1 快速上手canon 600D</a>》<a href="https://emacsist.github.io/2015/10/27/%E5%8D%95%E5%8F%8D%E5%AD%A6%E4%B9%A0/" title="单反学习 - emacsist">笔记1</a>/<a href="https://sunblognuke.github.io/2015/11/27/Photography-Learning/" title="摄影学习备忘 | Baldwin's Blog">2</a></b></li> 
 
-<li><b><a href="https://www.liangzhishu.com/course/9" title="（免费课程）李涛Photoshop高手之路基础篇 - 北京良知塾数字科技有限公司">李涛Photoshop高手之路基础篇（免费课程）</a>》</b></li> 
->> 始录于2006年，《李涛Photoshop高手之路》堪称PS课程中的“永不过气的经典之作” 
+<li><b>《<a href="https://www.liangzhishu.com/course/9" title="（免费课程）李涛Photoshop高手之路基础篇 - 北京良知塾数字科技有限公司">李涛Photoshop高手之路</a>》
+    <a href="https://www.liangzhishu.com/course/9" title="（免费课程）李涛Photoshop高手之路基础篇 - 北京良知塾数字科技有限公司">基础篇（免费课程）</a> | 
+    <a href="https://www.liangzhishu.com/course/10" title="（收费课程）李涛Photoshop高手之路提高篇 - 北京良知塾数字科技有限公司">提高篇（收费课程）</a>
+    </b> >> 始录于2006年，《李涛Photoshop高手之路》堪称PS课程中的“永不过气的经典之作”  </li>
+    
 <li><b><a href="http://www.ganlantu.com/course/186" title="">怎样把图片缩小到制定大小？</a> | <a href="http://www.ganlantu.com/course/703">【免费】Photoshop后期初级班（试听体验课）</a>  - <a href="http://www.ganlantu.com/course/explore/mianfei" title="免费课程 | 橄榄图摄影课堂">橄榄图摄影课堂</a></b></li>

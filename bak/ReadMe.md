@@ -12,7 +12,8 @@
            <li><a href="https://reliancehk.github.io/bak/佳能%20EOS%20600D(快速参考指南).pdf" title="佳能 EOS 600D(快速参考指南).pdf">佳能 EOS 600D(快速参考指南).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20说明书(简体中文).pdf" title="佳能(Canon)EOS 600D 说明书(简体中文).pdf">佳能(Canon)EOS 600D 说明书(简体中文).pdf</a></li><br>
            <li><a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20的九大核心技巧.pdf" title="佳能(Canon)EOS 600D 的九大核心技巧.pdf">佳能(Canon)EOS 600D 的九大核心技巧.pdf</a></li><br>
-             </td>
+           <li><a href="http://detail.zol.com.cn/digital_camera/index157973.shtml" title="【佳能5D Mark II】报价_参数_图片_论坛_(Canon)佳能 无敌兔,5D2,5DII,5D mark2,EOS 5D Mark II报价-ZOL中关村在线">无敌兔</a> : <a href="https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_II" title="全片幅机型:佳能(Canon) EOS 5D Mark II (常被称为“无敌兔”,发布于2008年9月17日) - 维基百科，自由的百科全书">佳能(Canon) EOS 5D Mark II</a></li><br>             
+         </td>
       </tr> 
       <tr> 
              <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="250" width="350"" /></a></td>

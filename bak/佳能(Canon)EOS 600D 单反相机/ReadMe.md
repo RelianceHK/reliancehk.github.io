@@ -25,10 +25,13 @@
     </table> 
 </details>
 
+<details>
+    <summary>
+      <li>镜头标识（ <a href="http://dc.it168.com/tu/1236177.shtml" title="镜头知识讲堂： 4步让你成为佳能镜头达人">镜头知识讲堂：4步让你成为佳能镜头达人 - 数码相机</a> ）</li> 
+    </summary>     
 <table> 
   <tr> 
    <td>
-<li>镜头标识（ <a href="http://dc.it168.com/tu/1236177.shtml" title="镜头知识讲堂： 4步让你成为佳能镜头达人">镜头知识讲堂：4步让你成为佳能镜头达人 - 数码相机</a> ）</li> 
 <br>
 `CANON`:Canon 佳能品牌.<br>    
 <br>
@@ -50,7 +53,8 @@
    </td>
   </tr> 
 </table> 
-    
+</details>
+
 <li><b><a href="https://www.canon.com.cn/supports/download/simsdetail/0400283305.html" title="">佳能（中国） - 服务与支持</a> : 《<a href="https://reliancehk.github.io/bak/佳能(Canon)EOS%20600D%20单反相机/EOS%20600D%20固件更新，版本v1.0.3-t3i-600d-x5-win/600d_t3i_x5-firmwareupdate-zh.pdf" title="">EOS 600D 固件更新步骤.pdf</a>》</b></li>
 >> EOS 600D 固件更新，版本1.0.3 [Windows] <br>
 >> 最近更新 ： 14-Nov-2016 <br>

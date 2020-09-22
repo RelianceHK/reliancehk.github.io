@@ -82,7 +82,7 @@
     
 <li>3.<b><a href="http://www.ganlantu.com/course/186" title="">怎样把图片缩小到制定大小？</a> | <a href="http://www.ganlantu.com/course/703">【免费】Photoshop后期初级班（试听体验课）</a>  - <a href="http://www.ganlantu.com/course/explore/mianfei" title="免费课程 | 橄榄图摄影课堂">橄榄图摄影课堂</a></b></li><br>
 
-> <b>二、参考资料：</b><br>
+> <b>二、<a href="https://www.google.com/search?q=600D+site:github.io" title="600D site:github.io_google搜索">参考资料</a>：</b><br>
 
 <details>
 <summary>

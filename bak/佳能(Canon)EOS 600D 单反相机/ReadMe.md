@@ -27,7 +27,7 @@
 
 <details>
     <summary>
-      <li>镜头标识（ <a href="http://dc.it168.com/tu/1236177.shtml" title="镜头知识讲堂： 4步让你成为佳能镜头达人">镜头知识讲堂：4步让你成为佳能镜头达人 - 数码相机</a> ）</li> 
+      <b>镜头标识（ <a href="http://dc.it168.com/tu/1236177.shtml" title="镜头知识讲堂： 4步让你成为佳能镜头达人">镜头知识讲堂：4步让你成为佳能镜头达人 - 数码相机</a> ）</b> 
     </summary>     
 <table> 
   <tr> 

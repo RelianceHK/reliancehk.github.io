@@ -38,3 +38,5 @@
 </details>
 
   <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>  
+
+ <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%9B%BE-%E9%A2%84%E8%A7%88.jpg?raw=true" />

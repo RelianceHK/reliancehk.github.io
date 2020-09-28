@@ -9,3 +9,25 @@
 </li>
 <li>主色：</li>
 <li>辅色：</li>
+
+<details>
+ <summary><b>品牌·策划·营销</b></summary>
+  <table>
+    <tr>
+     <td><b><li> 品牌发展规划</li></b></td>
+     <td><b><li> 品牌市场定位</li></b></td>
+     <td><b><li> 品牌分布和品牌影响力</li></b></td>
+    </tr>  
+     <tr>
+     <td>
+      公司形象宣传计划·广告宣传<br>
+      市场策划和品牌推广<br>
+      各类宣传资料、包装、说明书的设计与审定<br>
+      产品的报批工作<br>
+      公共媒介的联络、沟通、维护和信息交流活动<br>
+      </td>
+      <td> &nbsp </td>
+      <td> &nbsp </td>
+   </tr> 
+ </table>
+</details>

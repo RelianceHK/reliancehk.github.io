@@ -8,7 +8,7 @@
 
 <details>
  <summary><b><a href="https://www.google.com/search?ei=7VFxX4zYJ5L_wAOtmJKIDg&q=品牌·策划·营销·推广">品牌·策划·营销·推广</a></b><br>
- <li>LOGO字体: <a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E6%96%B9%E6%AD%A3%E6%AD%A3%E5%A4%A7%E9%BB%91%E7%AE%80%E4%BD%93.TTF">方正正大黑简体.TTF</a>
+ <li>LOGO 字体: <a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E6%96%B9%E6%AD%A3%E6%AD%A3%E5%A4%A7%E9%BB%91%E7%AE%80%E4%BD%93.TTF">方正正大黑简体.TTF</a> 字体颜色:黑色 / color: <TD align=middle width="11%" bgColor=#000000 height=16><SPAN style="COLOR: #ffffff">#000000</SPAN></TD>
  </li>
  <li>主色：</li>
  <li>辅色：</li>

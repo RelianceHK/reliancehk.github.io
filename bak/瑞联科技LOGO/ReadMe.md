@@ -27,7 +27,7 @@
       公共媒介的联络、沟通、维护和信息交流活动<br>
       </td>
       <td> &nbsp </td>
-      <td> &nbsp </td>
+      <td><a href="//www.lancentjk.com/" title="朗欣特官网 | 瑞联集团旗下品牌 logo.png (144×60)"><img src="https://lancentjk.github.io/lancent_TopFiles/lancent-144-60.png" height="60px" width="144px" /></a></td> 
    </tr> 
  </table>
 </details>

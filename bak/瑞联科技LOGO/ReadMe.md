@@ -31,3 +31,5 @@
    </tr> 
  </table>
 </details>
+
+  <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>  

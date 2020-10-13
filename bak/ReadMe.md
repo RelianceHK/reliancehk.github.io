@@ -1,7 +1,7 @@
-<li>医疗行业平台 | 医疗器械厂家 </li>
+<li><b>备忘录</b></li>
 <details>
     <summary>        
-🔗<a href="https://www.tecenet.com/" title="天成医疗网_医疗器械B2B平台,第三方医疗设备招商网">天成医疗网</a>_医疗器械B2B平台,第三方医疗设备招商网
+医疗行业平台 | 医疗器械厂家 🔗<a href="https://www.tecenet.com/" title="天成医疗网_医疗器械B2B平台,第三方医疗设备招商网">天成医疗网</a>_医疗器械B2B平台,第三方医疗设备招商网
 </summary>     
 </details>
     <hr>

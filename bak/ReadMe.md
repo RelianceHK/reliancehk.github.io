@@ -20,9 +20,10 @@
 
 <details>
     <summary>
-<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/ebook" title="🔗链接：eBook 目录">🔗链接</a>：<b>1.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/" title="佳能(Canon)EOS 600D 单反相机">数码单反相机</a> 
+<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/ebook" title="🔗链接：eBook 目录">🔗链接</a>：
+	    <b>1.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E4%BD%B3%E8%83%BD(Canon)EOS%20600D%20%E5%8D%95%E5%8F%8D%E7%9B%B8%E6%9C%BA/" title="佳能(Canon)EOS 600D 单反相机">数码单反相机</a> 
         2.<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/索尼(Sony)存储卡摄录一体机/" title="佳能(Canon)EOS 600D 单反相机">摄录一体机</a>
-        ： <a href="">【操作指南】使用说明书 (简体中文) </a></b>
+        ： <a href="#">【操作指南】使用说明书 (简体中文) </a></b>
      </summary> 
        &nbsp; &nbsp; &nbsp;
    <table> 
@@ -57,10 +58,10 @@
 <b>二级子域名 <a href="https://support.lancentjk.com/">support.reliancejk.com</a></b>
 </summary> <br>  
 <li> 公司二级子域名设置：<a href="https://support.lancentjk.com/">support.reliancejk.com</a> </li>
- <b>【设置参数】 </b><br>
+<blockquote> <b>【设置参数】 </b><br>
  主机记录：<b>support</b>  <br>
  类型：<b>CNAME</b>  <br>
- 记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)
+ 记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)</blockquote>
 </details>
 
 <details>
@@ -155,7 +156,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <summary>
 【阿里云】尊敬的用户：您好，感谢您致电 <a href="https://www.aliyun.com/">阿里云</a>
 </summary> <br>
-
+<blockquote>
 阿里云备案前期准备，请点此查看详情：http://a.aliyun.com/f1.kplfp
 
 如单位及域名均未备案，备案流程请参考：http://a.aliyun.com/f1.kuriN
@@ -166,7 +167,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 如域名已在其他接入商完成备案，需将备案接入阿里云，请参考：http://a.aliyun.com/f1.kGmE9
 
-如需获取更多帮助，请您登陆阿里云官网，点击联系我们—智能在线进行咨询。
+如需获取更多帮助，请您登陆阿里云官网，点击联系我们—智能在线进行咨询。</blockquote>
 </details>
 
 -----------------------------------------------------
@@ -222,13 +223,15 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 </summary> <br>
 <b>0x00000569：</b>未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 <br>
 <b> 解决方法：</b><br>
-开始“运行”gpedit.msc（用管理员身份运行）打开“组策略”，找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“<b>用户权限分配</b>”，在右边的策略中找到“<b>拒绝从网络访问这台计算机</b>”，把Guest删除、保存即可。
+<blockquote>开始“运行”gpedit.msc（用管理员身份运行）打开“组策略”，<br>
+	找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“<b>用户权限分配</b>”，<br>
+	在右边的策略中找到“<b>拒绝从网络访问这台计算机</b>”，把Guest删除、保存即可。</blockquote>
 </details>
 
 <details>
 <summary>
 <a href="https://jingyan.baidu.com/article/cbcede0776baa602f40b4dba.html"><b>共享打印机忽然不能打印，用户账户限制的解决</b> - 百度经验</a>:<br>
-共享打印机本来是好好的，忽然不能打印了，重启也无济于事，出现这种情况可能与使用<b>安全卫士修复电脑</b>有关。把打印机删除，重新按照发现用户账户限制。下面我来告诉你解决方法。
+共享打印机本来是好好的，忽然不能打印了，重启也无济于事，出现这种情况可能与使用<b>安全卫士修复电脑</b>有关。把打印机删除，重新按照发现<b>用户账户限制</b>。下面我来告诉你解决方法。
 </summary> <br>
 <blockquote> 开始“运行”<b>gpedit.msc</b>（用管理员身份运行）打开“组策略”，<br>
 找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”--“安全选项”，<br>
@@ -239,7 +242,8 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 --------------------------------------------------------------------------
 
 - 启用Guest访问权限 
-> 计算机管理--系统工具--本地用户和组--用户--Guest--右键打开属性--去除“账户已禁用”。
+
+<blockquote> 计算机管理--系统工具--本地用户和组--用户--Guest--右键打开属性--去除“账户已禁用”。</blockquote>
 
 --------------------------------------------------------------------------
 
@@ -251,10 +255,11 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
      </summary> 
 > 问题原因：防火墙windows firewall服务未开启。<br>
 > 解决方法：开启windows firewall服务。<br>
-> 
+<blockquote>
 >> 　　目标：打开“</b>Windows Firewall</b>”服务即可<br>
 >>>    <a href="http://www.niubb.com/yuedu/170623/21426397.html">方法/步骤</a>：<br>
 >>> 　　右键“计算机”--“管理”--“服务”--找到“<b>Windows Firewall</b>“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
+</blockquote>
 </details>
 
 --------------------------------------------------------------------------
@@ -268,6 +273,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 @<a href="http://xiazai.zol.com.cn/detail/47/464754.shtml">ZOL</a>-<a href="http://down10.zol.com.cn/20190311/464754.zip">软件下载</a>
 </summary> <br>
  hwp文件阅读器HwpViewer官方版是一款很实用的文件阅读工具。<br>hwp文件是一种韩语文档格式，而这款hwp文件阅读器就相当于韩语的office了，大家不仅可以用HwpViewer来阅读hwp文件，还可以对文档进行编辑和修改。 <br><br>
+<blockquote>	
  <li>hwp文件阅读器HwpViewer软件说明: </li>
       1、hwpviewer生成的文档格式不是.doc，也不是.docx等等，而是它独有的.hwp格式。<br>
       2、韩国网站下载到的资料大部分都是.hwp格式，想要看更多的韩国文档安装这款软件就是必需的啦!<br>
@@ -278,6 +284,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
       1、支持中文简体、繁体的自由输入<br>
       2、支持英文、日本、韩文等外语的输入<br>
       3、时下互联网常用的软件之一，该软件绿色、安全、无毒，让你可以放心使用 <br>
+</blockquote>
 </details>
 
 -------------------------------------------------------
@@ -287,7 +294,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <a href="https://jingyan.baidu.com/article/3d69c5515d458cf0ce02d750.html">Tips</a>:<b>新版WPS建立右键新建菜单</b>-百度经验：
 </summary> 
 <li><b> ☞ 解决方法（一）</b></li>
-
+<blockquote>
  1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br>
  2.【操作方法】WPS添加“建立右键新建菜单”：<br>
  2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps<br><br>
@@ -300,6 +307,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 >>>> <b>HKEY_CLASSES_ROOT\.dps</b> ，在<b>KWPP.Presentation.9</b>下新建 <b>ShellNew</b> ，并在右侧窗格新建 <b>NullFile</b> 。<br><br>
 <li><b>☞ 解决方法（二）</b></li>
 > <img src="https://github.com/taoste/Hello-World/blob/master/Tools/%E9%87%91%E5%B1%B1&%E7%8C%8E%E8%B1%B9/Win10-WPS-SoS.png?raw=true" title="新版WPS建立右键新建菜单的解决方案"  />
+</blockquote>
 </details>
 
 -------------------------------------------------------

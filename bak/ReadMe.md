@@ -258,7 +258,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <blockquote>
 >> 　　目标：打开“</b>Windows Firewall</b>”服务即可<br>
 >>>    <a href="http://www.niubb.com/yuedu/170623/21426397.html">方法/步骤</a>：<br>
->>> 　　右键“计算机”--“管理”--“服务”--找到“<b>Windows Firewall</b>“，"启用"即可。(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
+>>> 　　右键“计算机”--“管理”--“服务”--找到“<b>Windows Firewall</b>“，"启用"即可。<br>(或直接<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行输入 ：Services.msc 回车，打开：服务 )
 </blockquote>
 </details>
 

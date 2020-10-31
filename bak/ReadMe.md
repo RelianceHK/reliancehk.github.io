@@ -223,7 +223,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 </summary> <br>
 <b>0x00000569：</b>未授予用户在此计算机上的请求登录类型. 这个意思 是你没权访问目标主机。 <br>
 <b> 解决方法：</b><br>
-<blockquote>开始“运行”gpedit.msc（用管理员身份运行）打开“组策略”，<br>
+<blockquote>开始/<kbd>Win徽标键</kbd> + <kbd>R</kbd>，“运行”gpedit.msc（用管理员身份运行）打开“组策略”，<br>
 	找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”，点“<b>用户权限分配</b>”，<br>
 	在右边的策略中找到“<b>拒绝从网络访问这台计算机</b>”，把Guest删除、保存即可。</blockquote>
 </details>
@@ -233,7 +233,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <a href="https://jingyan.baidu.com/article/cbcede0776baa602f40b4dba.html"><b>共享打印机忽然不能打印，用户账户限制的解决</b> - 百度经验</a>:<br>
 共享打印机本来是好好的，忽然不能打印了，重启也无济于事，出现这种情况可能与使用<b>安全卫士修复电脑</b>有关。把打印机删除，重新按照发现<b>用户账户限制</b>。下面我来告诉你解决方法。
 </summary> <br>
-<blockquote> 开始“运行”<b>gpedit.msc</b>（用管理员身份运行）打开“组策略”，<br>
+<blockquote> 开始/<kbd>Win徽标键</kbd> + <kbd>R</kbd>，“运行”<b>gpedit.msc</b>（用管理员身份运行）打开“组策略”，<br>
 找到“计算机配置”--“Windows设置”--“安全设置”--“本地策略”--“安全选项”，<br>
 点右侧底部的“<b>账户：空密码的本地账户只允许控制台登录</b>”，选择“<b>已禁用</b>”。</blockquote> 
 <br>
@@ -295,7 +295,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 </summary> 
 <li><b> ☞ 解决方法（一）</b></li>
 <blockquote>
- 1.打开<b>开始</b>菜单-运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br>
+ 1.打开<b>开始</b>/<kbd>Win徽标键</kbd> + <kbd>R</kbd>，运行，输入: <b>regedit</b>，打开<b>注册表编辑器</b>。<br>
  2.【操作方法】WPS添加“建立右键新建菜单”：<br>
  2.1 <b>WPS文字</b>的<b>默认文件类型</b>为*.wps<br><br>
  <b>HKEY_CLASSES_ROOT</b>\ 下WPS文字的默认文件类型.wps点击刚才创建的“ShellNew”项，在右侧窗格，新建“字符串值”，请改名为“ <b>NullFile</b>”。<br>

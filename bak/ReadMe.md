@@ -311,3 +311,22 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 </details>
 
 -------------------------------------------------------
+
+<details>
+    <summary>        
+ 🔗<a href="https://www.coreldrawchina.com/X7jiaocheng/cdr-x7-pdf-wenjian.html" title=" CorelDRAW文档如何转PDF文件|CorelDRAW中文网站"> CorelDRAW文档如何转PDF文件</a> | CorelDRAW中文网站   </summary>    
+<h1 class="fs24 tac m10a m_fs44r m_lh60r m_m0ar">CorelDRAW文档如何转PDF文件</h1><p class="tac pb10 m_fs22r m_pb20r">发布时间：2019/12/19</p><div class="news_detail"><p>cdr是CorelDRAW的文件格式，PDF是acrobat的文件格式，在做一些设计的时候，很多情况下都要把cdr文件转换为PDF，用cdr、AI导出印刷的时候，通常会出现一些问题，大多是因为没有转曲导致的。如果你使用的的版本太高，而印刷厂使用的还只是低版本的，那就很麻烦了，如果我们将设计好的海报、画册、杂志等转换成<strong>PDF</strong>格式直接发送给印刷厂就大大减少了麻烦的出现。如何使用cdr输出PDF呢，下面就用cdrX7来给大家讲解，不同的版本输出设置有可能稍有不同，请注意区分。以下步骤将详解CorelDRAW文档如何转PDF文件。</p>
+<p>步骤一 完成你的设计后，先调一下兼容性，执行&ldquo;文件&rdquo;&rarr;&ldquo;发布为PDF&rdquo;命令，在文件名框中输入文件名，单击&ldquo;设置&rdquo;按钮，在弹出的PDF设置对话框中的&ldquo;兼容性&rdquo;复选框中选择Acrobat 6.0。我这里使用的是Acrobat 6.0，如果发布的PDF有问题，则可以尝试Acrobat 5.0或其他。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-1.jpg" alt="PDF设置" /></p>
+<p>步骤二 在PDF设置中单击&ldquo;对象&rdquo;并调整对象，在对象里面我们将压缩类型选择JPEG，将JPEG质量调到最高，并将&ldquo;将复杂填充渲染为位图&rdquo;、&ldquo;压缩艺术字和艺术线条&rdquo;、&ldquo;将所有文本导出为曲线&rdquo;勾选。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-2.jpg" alt="PDF设置" /></p>
+<p>步骤三 在PDF设置中单击&ldquo;文档&rdquo;并调整文档，启动时显示选择&ldquo;仅限于页面&rdquo;，编码选择&ldquo;二进制&rdquo;。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-3.jpg" alt="PDF设置" /></p>
+<p>步骤四 若设计页面中设定为含出血的尺寸，在PDF设置中单击&ldquo;预印&rdquo;并勾选出血限制，输入数值为3px。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-4.jpg" alt="PDF设置" /></p>
+<p>步骤五 到目前为止，我们已经完成好保存设置了，如果你想保存现在设置好的样式，点击&ldquo;常规&rdquo;下的PDF设置按钮，弹出输入框&ldquo;将PDF预设另存为&rdquo;，输入名称，完成。（如果要删除PDF样式，请选择样式，然后单击PDF预设列表框旁边的删除PDF<img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-6.jpg" alt="PDF设置" />按钮）。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-7.jpg" alt="PDF设置" /></p>
+<p>步骤六 最后，在文件名框中输入PDF名称，点击保存即可。</p>
+<p><img src="https://pic.mairuan.com/WebSource/coreldraw/news/old/uploads/images/support/pdf-geshi-20150515-8.jpg" alt="PDF设置" /></p>
+<p>关于CorelDRAW的更多内容可参考<a href="http://www.coreldrawchina.com/" target="_blank" rel="noopener">CorelDRAW中文官网</a>。</p>	
+</details>

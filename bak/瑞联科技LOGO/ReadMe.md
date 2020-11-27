@@ -12,8 +12,8 @@
   ( <font color="#000000" size="7" face="黑体" bgcolor="orange">color=#000000 size=72 face="方正正大黑简体"</font> )
  </li>
  <li>主色：<font color="#69012D">#69012D</font> | RGB:105.1.45 (紫色未经证实)</li>
- <li>辅色：<font color="#7C7873">#7C7873</font> | RGB:124.120.115(灰色，未经证实)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#262524">#262524</font> | RGB:38.37.36(黑色，未经证实)</li>
+ <li>辅色：<font color="#7C7873">#7C7873</font> | RGB:124.120.115 (灰色，未经证实)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#262524">#262524</font> | RGB:38.37.36 (黑色，未经证实)</li>
 </summary>
 <table>
     <tr>

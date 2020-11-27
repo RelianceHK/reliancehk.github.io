@@ -11,8 +11,9 @@
  <li>LOGO 字体: <a href="https://github.com/RelianceHK/RelianceHK.github.io/raw/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E6%96%B9%E6%AD%A3%E6%AD%A3%E5%A4%A7%E9%BB%91%E7%AE%80%E4%BD%93.TTF">方正正大黑简体.TTF</a> 字体颜色:黑色 <br>
   ( <font color="#000000" size="7" face="黑体" bgcolor="orange">color=#000000 size=72 face="方正正大黑简体"</font> )
  </li>
- <li>主色：</li>
- <li>辅色：</li>
+ <li>主色：<font color="#69012D">#69012D</font> | RGB:105.1.45 (紫色未经证实)</li>
+ <li>辅色：<font color="#7C7873">#7C7873</font> | RGB:124.120.115(灰色，未经证实)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#262524">#262524</font> | RGB:38.37.36(黑色，未经证实)</li>
 </summary>
 <table>
     <tr>
@@ -29,7 +30,7 @@
       产品的报批工作<br>
       公共媒介的联络、沟通、维护和信息交流活动<br>
       </td>
-      <td> &nbsp </td>
+      <td> &nbsp; </td>
       <td>
        <a href="http://www.reliancejk.com/tpl/www/images/logo.png" title="logo.png (144×26)"><img src="瑞联LOGO（左右横放）.png" height="26px" width="144px" /></a><br>
        <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/瑞联科技LOGO/瑞联科技.png?raw=true" height="26px" width="144px" /><br>

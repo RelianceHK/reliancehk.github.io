@@ -64,6 +64,10 @@
  记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)</blockquote>
 </details>
 
+<li><b><a href="https://www.aliyun.com/daily-act/ecs/free">ECS免费试用_云服务器ECS_阿里云</a></b></li>
+<blockquote>热门课程推荐<br>
+学习以下课程，轻松玩转ECS，提升个人能力</blockquote>
+
 <details>
     <summary>【<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93">网络营销 · 新媒体 · 短视频</a>】专题
      </summary>  <br>

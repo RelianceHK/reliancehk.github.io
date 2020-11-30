@@ -64,9 +64,24 @@
  记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)</blockquote>
 </details>
 
-<li><b><a href="https://www.aliyun.com/daily-act/ecs/free">ECS免费试用_云服务器ECS_阿里云</a></b></li>
+<details>
+    <summary><b><a href="https://www.aliyun.com/daily-act/ecs/free">ECS免费试用_云服务器ECS_阿里云</a></b>    <br>
 <blockquote>热门课程推荐<br>
-学习以下课程，轻松玩转ECS，提升个人能力</blockquote>
+学习以下课程，轻松玩转ECS，提升个人能力</blockquote></summary>
+<li>《<a href="https://developer.aliyun.com/course/46">上云须知</a>》课程详情 — 阿里云开发者社区</li>
+<blockquote>全面了解阿里云能为你做什么<br>
+适合云计算开发者及企业用户</blockquote><br><br>
+<li>《<a href="https://developer.aliyun.com/course/70">7天玩转云服务器</a>》课程详情 — 阿里云开发者社区</li>
+<blockquote>本课程主要讲解ECS是什么、优势以及如何操作等<br>
+掌握云服务器ECS的基本操作<br>
+掌握云上搭建网站的基本操作</blockquote><br><br>
+<li>《<a href="https://developer.aliyun.com/course/71">云上建站快速入门</a>》课程详情 — 阿里云开发者社区</li>
+<blockquote>博客、论坛、CMS、电子商务网站统统搞定<br>
+掌握云端建站方法</blockquote><br>
+<li>《<a href="https://developer.aliyun.com/course/1780">Python语言基础1：语法入门</a>》课程详情 — 阿里云开发者社区</li>
+<blockquote>本课程将带您快速入门Python，感受Python的强大与便捷<br>
+适合Python零基础人员</blockquote>
+</details>
 
 <details>
     <summary>【<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93">网络营销 · 新媒体 · 短视频</a>】专题

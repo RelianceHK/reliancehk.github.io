@@ -26,7 +26,7 @@
 	    : </b></h4></br>
 	    
  【公众号】<a href="https://kf.qq.com/faq/170221uQ7Vz2170221ZzIZv6.html" title="【公众号】帐号迁移流程指引">帐号迁移流程指引(详细流程图)</br>
-<img src="https://file.service.qq.com/user-files/uploads/201811/0e62e893cfaa56bc678c01ec84b4065a.PNG" border="0" height="100%" width="100%" title="【公众号】帐号迁移(详细流程图)"></a>
+<img src="https://file.service.qq.com/user-files/uploads/201811/0e62e893cfaa56bc678c01ec84b4065a.PNG" title="【公众号】帐号迁移(详细流程图)"/></a>
 <li><a href="https://kf.qq.com/faq/170217yQfA3Q170217AfEvMR.html" title="【公众号】迁移申请函公证指引">【公众号】迁移申请函公证指引</a></li>
 <blockquote>
 <li><a href="https://www.egongzheng.com/notary/734" title="微信公众号迁移申请函_公证指南 - 公证云">微信公众号迁移申请函_公证指南 - 公证云</a></li>

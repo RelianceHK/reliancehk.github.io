@@ -63,7 +63,10 @@
  类型：<b>CNAME</b>  <br>
  记录值：<b>RelianceHK.github.io</b> (请注意是hk,不是jk)</blockquote>
 </details>
-
+<blockquote>
+网站开通后，请在网站首页底部中间位置放置您的ICP备案号并链接至" http://beian.miit.gov.cn "。 
+并在开通之日起30日内  <a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" title="全国互联网安全管理服务平台 | 公安部网络安全保卫局"/>登录全国互联网安全管理平台</a> 提交公安联网备案申请。获取《<a href="https://help.aliyun.com/knowledge_detail/36981.html">公安备案信息填写指南</a>》。
+</blockquote>
 <details>
     <summary><b><a href="https://www.aliyun.com/daily-act/ecs/free">ECS免费试用_云服务器ECS_阿里云</a></b>    <br>
 <blockquote>热门课程推荐<br>

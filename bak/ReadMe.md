@@ -55,11 +55,10 @@
 
 <details>
 <summary>
-<b>1.主域名 <a href="https://www.reliancejk.com/">reliancejk.com</a></b><br> 
-<blockquote><b>二级子域名 <a href="https://support.lancentjk.com/">support.reliancejk.com</a></b></blockquote>
-<br>瑞联集团 浙江瑞联健康科技有限公司
+<b>1.主域名 <a href="https://www.reliancejk.com/">reliancejk.com</a></b><br>
+瑞联集团 浙江瑞联健康科技有限公司<br> 
 </summary> <br>  
-<li> 公司二级子域名设置：<a href="https://support.lancentjk.com/">support.reliancejk.com</a> </li>
+<li> 公司二级子域名设置：<a href="https://support.reliancejk.com/">support.reliancejk.com</a> </li>
 <blockquote> <b>【设置参数】 </b><br>
  主机记录：<b>support</b>  <br>
  类型：<b>CNAME</b>  <br>
@@ -73,7 +72,14 @@
 <blockquote>
 网站开通后，请在网站首页底部中间位置放置您的ICP备案号并链接至" http://beian.miit.gov.cn "。 
 并在开通之日起30日内登录<b><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" title="全国互联网安全管理服务平台 | 公安部网络安全保卫局"/>全国互联网安全管理平台</a></b>提交公安联网备案申请。获取《<b><a href="https://help.aliyun.com/knowledge_detail/36981.html">公安备案信息填写指南</a></b>》。
-</blockquote></summary> 
+</blockquote>
+</summary><br>  
+<li> 公司二级子域名设置：<a href="https://support.lancentjk.com/">support.lancentjk.com</a> </li>
+<blockquote> <b>【设置参数】 </b><br>
+ 主机记录：<b>support</b>  <br>
+ 类型：<b>CNAME</b>  <br>
+ 记录值：<b>lancentjk.github.io</b> (请注意是jk,不是cn)</blockquote>
+</details> 
 </details>
 <details>
     <summary><b><a href="https://www.aliyun.com/daily-act/ecs/free">ECS免费试用_云服务器ECS_阿里云</a></b>    <br>

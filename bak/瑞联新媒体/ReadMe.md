@@ -34,8 +34,10 @@
 </blockquote>
  <blockquote>
  <li><a href="https://mp.weixin.qq.com/merchant/mppaysubscribeopen?action=getinfo&token=831375558&lang=zh_CN" title="微信公众平台付费功能服务条款">微信公众平台付费功能服务条款</a></li>
-新建“快捷方式”：<img src="https://res.wx.qq.com/a/wx_fed/finder/helper/finder-helper-web/res/favicon.ico" height="15" width="15" /><a href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手">视频号助手</a><code>
-"c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code>
+新建“快捷方式”：<br/><img src="https://res.wx.qq.com/a/wx_fed/finder/helper/finder-helper-web/res/favicon.ico" height="15" width="15" /><a href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手">视频号助手</a><br/>
+<code>
+"c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code><br/>	
+ <li><a href="https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_agreement&s=video" title="微信视频号运营规范">微信视频号运营规范</a></li>
 </blockquote>   
  <a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/瑞联新媒体" title="【瑞联新媒体】腾讯超级商业生态大闭环">
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/%E8%85%BE%E8%AE%AF%E8%B6%85%E7%BA%A7%E5%95%86%E4%B8%9A%E7%94%9F%E6%80%81%E5%A4%A7%E9%97%AD%E7%8E%AF.jpg?raw=true" border="0" height="100%" width="100%" title="录制教程时可用字体包（23款免费商用字体）"></a>

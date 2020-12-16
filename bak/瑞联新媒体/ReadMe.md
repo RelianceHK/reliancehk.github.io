@@ -20,11 +20,10 @@
 	<a href="https://mp.weixin.qq.com/" title="微信公众平台">
 	   <img src="https://res.wx.qq.com/mpres/zh_CN/htmledition/vue-weui/src/weui-desktopSkin/svg/buildless/bg_logo_primary49d02b.svg" height="50%" width="50%" /></a>
 	<h4> <a href="https://mp.weixin.qq.com/" title="微信公众平台 · 公众号(订阅号/服务号)"><img src="https://res.wx.qq.com/a/fed_upload/9300e7ac-cec5-4454-b75c-f92260dd5b47/logo-mp.ico" height="15" width="15" />公众号(订阅号/服务号) </a> 
-	    · <a href="https://mp.weixin.qq.com/" title="微信公众平台 · 视频号">视频号</a>
+	    · <a href="https://mp.weixin.qq.com/" title="微信公众平台 · 视频号">视频号</a><img src="https://res.wx.qq.com/a/wx_fed/finder/helper/finder-helper-web/res/favicon.ico" height="15" width="15" /><a href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手">视频号助手</a>
 	    · <a href="https://mp.weixin.qq.com/cgi-bin/wx?token=&lang=zh_CN" title="微信公众平台 · 微信小程序">小程序</a>
 	    · <a href="https://work.weixin.qq.com/" title="微信公众平台 · 企业微信(原企业号)">企业微信(原企业号)</a>
-	    : </b></h4></br>
-	    
+	    : </b></h4></br>	    
  【公众号】<a href="https://kf.qq.com/faq/170221uQ7Vz2170221ZzIZv6.html" title="【公众号】帐号迁移流程指引">帐号迁移流程指引(详细流程图)</br>
 <img src="https://file.service.qq.com/user-files/uploads/201811/0e62e893cfaa56bc678c01ec84b4065a.PNG" title="【公众号】帐号迁移(详细流程图)"/></a>
 <li><a href="https://kf.qq.com/faq/170217yQfA3Q170217AfEvMR.html" title="【公众号】迁移申请函公证指引">【公众号】迁移申请函公证指引</a></li>
@@ -33,11 +32,12 @@
 <li><a href="https://www.egongzheng.com/article/525" title="在线办理微信公众号迁移申请函公证的流程">在线办理微信公众号迁移申请函公证的流程</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/163176751" title="微信公众号，迁移+公证怎么办？ - 知乎">微信公众号，迁移+公证怎么办？ - 知乎</a></li>
 </blockquote>
+ <blockquote>
+ <li><a href="https://mp.weixin.qq.com/merchant/mppaysubscribeopen?action=getinfo&token=831375558&lang=zh_CN" title="微信公众平台付费功能服务条款">微信公众平台付费功能服务条款</a></li></blockquote>
 </summary>      
  <a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/瑞联新媒体" title="【瑞联新媒体】腾讯超级商业生态大闭环">
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/%E8%85%BE%E8%AE%AF%E8%B6%85%E7%BA%A7%E5%95%86%E4%B8%9A%E7%94%9F%E6%80%81%E5%A4%A7%E9%97%AD%E7%8E%AF.jpg?raw=true" border="0" height="100%" width="100%" title="录制教程时可用字体包（23款免费商用字体）"></a>
 </details>
-
 <details>
     <summary><a href="https://zh.wikipedia.org/wiki/字节跳动" title="字节跳动 - 维基百科，自由的百科全书">@</a><b><a href="https://www.bytedance.com/zh/" title="北京字节跳动科技有限公司，简称【字节跳动】，是一家位于中国北京的跨国互联网技术公司，成立于2012年3月，旗下有产品今日头条、火山短视频和抖音（及其海外版本TikTok）等。">字节跳动</a> 系列</b><br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ByteDance_Logo.svg/220px-ByteDance_Logo.svg.png" alt="ByteDance" height="50%" width="50%" />

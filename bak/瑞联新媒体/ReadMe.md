@@ -38,7 +38,7 @@
 <code>
 "c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code><br/>	
  <li><a href="https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_agreement&s=video" title="微信视频号运营规范">微信视频号运营规范</a></li>
- <li><a href="https://cn.bing.com/search?q=开通直播推流能力" title="微信视频号开通直播推流能力 - 国内版 Bing">微信视频号开通直播推流能力 - 国内版 Bing</a></li>
+ <li><a href="https://cn.bing.com/search?q=开通直播推流能力" title="微信视频号开通直播推流能力 - 国内版 Bing">微信视频号开通直播推流能力 - 国内版 Bing</a> | <a href="https://obsproject.com/" title="OBS (Open Broadcaster Software) 开源直播推流软件">OBS (Open Broadcaster Software) 开源直播推流软件</a></li>
 	<a href="https://developers.weixin.qq.com/community/business/doc/0004c270e4875041282a1cf605b40d" title="推流直播操作指引 | 微信开放社区">推流直播操作指引 | 微信开放社区</a></br>
 	<a href="https://36kr.com/p/1005862091157256" title="视频号直播推流，一大批专业主播正在跑步进场_详细解读_最新资讯_热点事件_36氪">视频号直播推流，一大批专业主播正在跑步进场_详细解读_36氪</a></br>
 </blockquote>   

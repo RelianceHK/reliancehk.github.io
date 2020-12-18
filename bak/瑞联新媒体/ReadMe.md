@@ -38,6 +38,9 @@
 <code>
 "c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code><br/>	
  <li><a href="https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_agreement&s=video" title="微信视频号运营规范">微信视频号运营规范</a></li>
+ <li><a href="https://cn.bing.com/search?q=开通直播推流能力" title="微信视频号开通直播推流能力 - 国内版 Bing">微信视频号开通直播推流能力 - 国内版 Bing</a></li>
+	<a href="https://developers.weixin.qq.com/community/business/doc/0004c270e4875041282a1cf605b40d" title="推流直播操作指引 | 微信开放社区">推流直播操作指引 | 微信开放社区</a>
+	<a href="https://36kr.com/p/1005862091157256" title="视频号直播推流，一大批专业主播正在跑步进场_详细解读_最新资讯_热点事件_36氪">视频号直播推流，一大批专业主播正在跑步进场_详细解读_36氪</a>
 </blockquote>   
  <a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/瑞联新媒体" title="【瑞联新媒体】腾讯超级商业生态大闭环">
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/%E8%85%BE%E8%AE%AF%E8%B6%85%E7%BA%A7%E5%95%86%E4%B8%9A%E7%94%9F%E6%80%81%E5%A4%A7%E9%97%AD%E7%8E%AF.jpg?raw=true" border="0" height="100%" width="100%" title="录制教程时可用字体包（23款免费商用字体）"></a>

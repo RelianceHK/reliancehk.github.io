@@ -26,22 +26,22 @@
 	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2017-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2017年6月水机发布会</a> </td> 
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2017年6月水机发布会</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
-			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！嘉兴/2017年6月</a> &nbsp; </td>
+			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！</a> &nbsp; </td>
 	 </tr>   
       <tr>               
 	 	 <td> 2017年6月17日</td>
          <td>  嘉兴·摩根大酒店（五星级） </td>
             <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
-			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！嘉兴/2017年6月17日</a> &nbsp; </td>
+			 嘉兴/2017年6月17日</a> &nbsp; </td>
 	 </tr> 	 
 	   	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2016-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2016年6月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2016年6月邀请函</a> </td> 
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2016年6月邀请函</a> </td> 
             <td><a href="https://mp.weixin.qq.com/s/pwH5TS9S8PtZBTFGAk2eag" 
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-30 )">【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴</a> &nbsp; </td>
 	 </tr>   
@@ -53,7 +53,7 @@
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年8月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2015年8月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年8月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="秋雨濛濛是丰收( @RuiLian  2015-08-22 )">【集团新闻】秋雨濛濛是丰收·2015.8.22-23</a> &nbsp; </td>
 	 </tr> 
@@ -71,7 +71,7 @@
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-05 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年5月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2015年5月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年5月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="">【集团新闻】2015.5</a> &nbsp; </td>
 	 </tr> 
@@ -83,7 +83,7 @@
 	 <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年2月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2015年2月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年2月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="">【集团新闻】2015.2</a> &nbsp; </td>
 	 </tr> 

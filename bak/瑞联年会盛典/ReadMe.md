@@ -23,6 +23,21 @@
          <td> 河南·郑州 新华建国饭店/1月20-21日</td>
              <td><a href="https://mp.weixin.qq.com/s/W9rcBrduhJl6LdrVlaBuIQ" title="【实时新闻】记2018公司员工年会乐翻天( 瑞联年会工作组 @RuiLian 2018-01-29 )">【实时新闻】记2018公司员工年会乐翻天·嘉兴总部/1月29日</a> &nbsp; </td>
       </tr> 
+	<tr>               
+	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2017-06-** )">
+	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月 微信通知</a></td>
+        <td>☞<a href="#" title="瑞联集团邀请函">瑞联集团2017年6月发布会邀请函</a> </td> 
+             <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
+			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
+			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！嘉兴/2017年6月</a> &nbsp; </td>
+	 </tr>   
+      <tr>               
+	 	 <td> 2017年6月17日</td>
+         <td>  嘉兴·摩根大酒店（五星级） </td>
+            <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
+			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
+			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！嘉兴/2017年6月17日</a> &nbsp; </td>
+	 </tr> 	 
 	   	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2016-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2016年6月 微信</a></td>

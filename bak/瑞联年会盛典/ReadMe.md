@@ -9,7 +9,7 @@
            <td><a href="#" title="【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴">【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴/1月18日</a> &nbsp; </td>
       </tr> 
        <tr>               
-	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28 微信通知</a></td>
+	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28 通知</a></td>
              <td>☞<a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联集团2019年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/n_mib2xqW3Hhetq0J3GIkA" title="【集团新闻】瑞联集团2019年度盛会完美落幕·南湖">【集团新闻】瑞联集团2019年度盛会完美落幕·南湖/1月18日</a> &nbsp; </td>
       </tr> 
@@ -19,8 +19,8 @@
              <td><a href="https://mp.weixin.qq.com/s/LffS8ZfRTWAt6Upvh_2CNQ" title="【集团新闻】瑞联集团2018年度盛会完美落幕·郑州( 瑞联年会工作组 @RuiLian 2018-01-23 )">【集团新闻】瑞联集团2018年度盛会完美落幕·郑州/1月20日</a> &nbsp; </td>
       </tr> 
       <tr>               
-	 <td> &nbsp;</td>
-         <td> 河南·郑州 新华建国饭店/1月20-21日</td>
+	 <td> 2018年1月20-21日</td>
+         <td> 河南·郑州 新华建国饭店</td>
              <td><a href="https://mp.weixin.qq.com/s/W9rcBrduhJl6LdrVlaBuIQ" title="【实时新闻】记2018公司员工年会乐翻天( 瑞联年会工作组 @RuiLian 2018-01-29 )">【实时新闻】记2018公司员工年会乐翻天·嘉兴总部/1月29日</a> &nbsp; </td>
       </tr> 
 	<tr>               
@@ -46,8 +46,8 @@
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-30 )">【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴</a> &nbsp; </td>
 	 </tr>   
       <tr>               
-	 	 <td> &nbsp;</td>
-         <td> 2016-06-25 嘉兴·龙之梦酒店</td>
+	 	 <td>2016-06-25</td>
+         <td> 嘉兴·龙之梦酒店</td>
             <td><a href="https://mp.weixin.qq.com/s/IYujBbs9eBR1kdXl4Jcshg" title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-29 )">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   集团新闻热点发布 ( @RuiLian  2016-06-29 ) </td>
 	 </tr> 
 	  <tr>               
@@ -57,9 +57,9 @@
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="秋雨濛濛是丰收( @RuiLian  2015-08-22 )">【集团新闻】秋雨濛濛是丰收·2015.8.22-23</a> &nbsp; </td>
 	 </tr> 
-	   <tr>               
+	   <tr>   
+	   <td>  2015.8.22-23</td>
 	 <td> &nbsp;</td>
-         <td>  2015.8.22-23</td>
             <td><a href="https://mp.weixin.qq.com/s/FJl9oi_8aKSnU2fYD_naNQ" 
 			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">【集团新闻】八月的财富盛宴到来啦！2015.8.22-23</a> &nbsp; </td>
       </tr> 

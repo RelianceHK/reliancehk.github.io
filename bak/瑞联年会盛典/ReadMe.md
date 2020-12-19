@@ -14,7 +14,7 @@
 			 <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
 		         <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
 		</td>
-         <td> 2021年1月17-18日 嘉兴·梅花洲生活小镇（特色酒店）</td>            
+         <td> 2021年1月17-18日 <a href="#" title="高德导航 |  嘉兴·梅花洲生活小镇（特色酒店）">嘉兴·梅花洲生活小镇（特色酒店）</a></td>            
 	 </tr> 
        <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28☞盛典</a></td>
@@ -27,7 +27,7 @@
 			 <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">#</a>
 		         <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">#</a>
 		</td>
-         <td> 2019年1月18日 嘉兴·南湖国际俱乐部（大酒店）</td>            
+         <td> 2019年1月18日 <a href="https://surl.amap.com/2RMYcbC1e9BB" title="高德导航 |  嘉兴·南湖国际俱乐部（大酒店） "> 嘉兴·南湖国际俱乐部（大酒店）</a> </td>         
 	 </tr> 
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年12月☞盛典</a></td>

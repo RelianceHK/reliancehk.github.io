@@ -13,6 +13,16 @@
              <td>☞<a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联集团2019年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/n_mib2xqW3Hhetq0J3GIkA" title="【集团新闻】瑞联集团2019年度盛会完美落幕·南湖">【集团新闻】瑞联集团2019年度盛会完美落幕·南湖/1月18日</a> &nbsp; </td>
       </tr> 
+	  <tr>               
+	 <td> <a href="#" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018 微信通知</a></td>
+        <td>☞<a href="#" title="瑞联集团2018年会盛典邀请函">瑞联集团2018年会盛典邀请函</a> </td> 
+             <td><a href="https://mp.weixin.qq.com/s/LffS8ZfRTWAt6Upvh_2CNQ" title="【集团新闻】瑞联集团2018年度盛会完美落幕·郑州( 瑞联年会工作组 @RuiLian 2018-01-23 )">【集团新闻】瑞联集团2018年度盛会完美落幕·郑州/1月20-21日</a> &nbsp; </td>
+      </tr> 
+      <tr>               
+	 <td> &nbsp;</td>
+         <td> &nbsp;</td>
+             <td><a href="https://mp.weixin.qq.com/s/W9rcBrduhJl6LdrVlaBuIQ" title="【实时新闻】记2018公司员工年会乐翻天( 瑞联年会工作组 @RuiLian 2018-01-29 )">【实时新闻】记2018公司员工年会乐翻天·嘉兴总部/1月29日</a> &nbsp; </td>
+      </tr> 
     </table> 
 	</summary>  		
 	<details>

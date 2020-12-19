@@ -24,7 +24,7 @@
          <td> 2019年1月18日 嘉兴·南湖国际俱乐部（大酒店）</td>            
 	 </tr> 
 	  <tr>               
-	 <td> <a href="https://mp.weixin.qq.com/" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018年1月20-21日</a></td>
+	 <td> <a href="https://mp.weixin.qq.com/" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年12月☞通知</a></td>
         <td><a href="#" title="瑞联集团2018年会盛典邀请函">瑞联 ✔2018年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/LffS8ZfRTWAt6Upvh_2CNQ" title="【集团新闻】瑞联集团2018年度盛会完美落幕·郑州( 瑞联年会工作组 @RuiLian 2018-01-23 )">【集团新闻】瑞联集团2018年度盛会完美落幕·郑州/1月20日</a> &nbsp; </td>
       </tr> 

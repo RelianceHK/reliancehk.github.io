@@ -61,7 +61,7 @@
 		 <td> &nbsp;</td>
 	   <td>  2015.8.22-23</td>
             <td><a href="https://mp.weixin.qq.com/s/FJl9oi_8aKSnU2fYD_naNQ" 
-			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">【集团新闻】八月的财富盛宴到来啦！2015.8.22-23</a> &nbsp; </td>
+			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">☀ 八月的财富盛宴到来啦！2015.8.22-23</a> &nbsp; </td>
       </tr> 
 	  <tr>           
 		 <td> &nbsp;</td>

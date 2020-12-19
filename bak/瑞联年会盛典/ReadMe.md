@@ -5,7 +5,7 @@
    <table> 
        <tr>               
 	<td> <a href="https://mp.weixin.qq.com/" title="叮咚！您有一份来自瑞联集团的『2021年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2020-12-19☞盛典</a></td>
-          <td><a href="https://g.eqxiu.com/s/NZBvfYTU?bt=yxy&eqrcode=1&share_level=1&from_user=202012075992726e" title="瑞联集团2021年会邀请函-易企秀">瑞联 ✔2021年会盛典邀请函</a> </td> 
+          <td><a href="https://g.eqxiu.com/s/NZBvfYTU" title="瑞联集团2021年会邀请函-易企秀">瑞联 ✔2021年会盛典邀请函</a> </td> 
            <td><a href="#" title="【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴">【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴/1月18日</a> &nbsp; </td>
       </tr> 
 	<tr>     

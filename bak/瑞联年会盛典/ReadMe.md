@@ -5,17 +5,17 @@
    <table> 
        <tr>               
 	<td> <a href="#" title="叮咚！您有一份来自瑞联集团的『2021年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2020-12-19☞通知</a></td>
-          <td><a href="https://g.eqxiu.com/s/NZBvfYTU?bt=yxy&eqrcode=1&share_level=1&from_user=202012075992726e" title="瑞联集团2021年会邀请函-易企秀">瑞联 ☞2021年会邀请函</a> </td> 
+          <td><a href="https://g.eqxiu.com/s/NZBvfYTU?bt=yxy&eqrcode=1&share_level=1&from_user=202012075992726e" title="瑞联集团2021年会邀请函-易企秀">瑞联 ✔2021年会邀请函</a> </td> 
            <td><a href="#" title="【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴">【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴/1月18日</a> &nbsp; </td>
       </tr> 
        <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28☞通知</a></td>
-             <td><a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联 ☞2019年会盛典邀请函</a> </td> 
+             <td><a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联 ✔2019年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/n_mib2xqW3Hhetq0J3GIkA" title="【集团新闻】瑞联集团2019年度盛会完美落幕·南湖">【集团新闻】瑞联集团2019年度盛会完美落幕·南湖/1月18日</a> &nbsp; </td>
       </tr> 
 	  <tr>               
 	 <td> <a href="#" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018年1月20-21日</a></td>
-        <td><a href="#" title="瑞联集团2018年会盛典邀请函">瑞联 ☞2018年会盛典邀请函</a> </td> 
+        <td><a href="#" title="瑞联集团2018年会盛典邀请函">瑞联 ✔2018年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/LffS8ZfRTWAt6Upvh_2CNQ" title="【集团新闻】瑞联集团2018年度盛会完美落幕·郑州( 瑞联年会工作组 @RuiLian 2018-01-23 )">【集团新闻】瑞联集团2018年度盛会完美落幕·郑州/1月20日</a> &nbsp; </td>
       </tr> 
       <tr>               
@@ -26,7 +26,7 @@
 	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2017-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月☞通知</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2017年6月水机发布会</a> </td> 
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2017年6月水机发布会</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
 			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！</a> &nbsp; </td>
@@ -41,7 +41,7 @@
 	   	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2016-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2016年6月☞通知</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2016年6月邀请函</a> </td> 
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2016年6月邀请函</a> </td> 
             <td><a href="https://mp.weixin.qq.com/s/pwH5TS9S8PtZBTFGAk2eag" 
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-30 )">【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴</a> &nbsp; </td>
 	 </tr>   
@@ -53,7 +53,7 @@
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年8月☞通知</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年8月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2015年8月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="秋雨濛濛是丰收( @RuiLian  2015-08-22 )">【集团新闻】秋雨濛濛是丰收·2015.8.22-23</a> &nbsp; </td>
 	 </tr> 
@@ -71,7 +71,7 @@
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-05 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年5月☞通知</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年5月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2015年5月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="">【集团新闻】2015.5</a> &nbsp; </td>
 	 </tr> 
@@ -83,7 +83,7 @@
 	 <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年2月☞通知</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ☞2015年2月邀请函</a> </td>             
+        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2015年2月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
 			 title="">【集团新闻】2015.2</a> &nbsp; </td>
 	 </tr> 

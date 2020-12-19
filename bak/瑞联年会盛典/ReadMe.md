@@ -5,12 +5,12 @@
    <table> 
        <tr>               
 	<td> <a href="#" title="叮咚！您有一份来自瑞联集团的『2021年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2020-12-19 通知</a></td>
-          <td>☞<a href="https://g.eqxiu.com/s/NZBvfYTU?bt=yxy&eqrcode=1&share_level=1&from_user=202012075992726e" title="瑞联集团2021年会邀请函-易企秀">瑞联集团2021年会邀请函-易企秀</a> </td> 
+          <td>☞<a href="https://g.eqxiu.com/s/NZBvfYTU?bt=yxy&eqrcode=1&share_level=1&from_user=202012075992726e" title="瑞联集团2021年会邀请函-易企秀">瑞联:2021年会邀请函</a> </td> 
            <td><a href="#" title="【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴">【集团新闻】瑞联集团2021年度盛会完美落幕·嘉兴/1月18日</a> &nbsp; </td>
       </tr> 
        <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28 通知</a></td>
-             <td>☞<a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联集团2019年会盛典邀请函</a> </td> 
+             <td>☞<a href="https://p.scene.eqh5.cn/s/7I7Zuo1S" title="瑞联集团2019年会盛典邀请函">瑞联:2019年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/n_mib2xqW3Hhetq0J3GIkA" title="【集团新闻】瑞联集团2019年度盛会完美落幕·南湖">【集团新闻】瑞联集团2019年度盛会完美落幕·南湖/1月18日</a> &nbsp; </td>
       </tr> 
 	  <tr>               
@@ -25,7 +25,7 @@
       </tr> 
 	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2017-06-** )">
-	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月 微信通知</a></td>
+	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月 微信</a></td>
         <td>☞<a href="#" title="瑞联集团邀请函">瑞联集团2017年6月发布会邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">

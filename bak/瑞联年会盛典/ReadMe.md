@@ -14,7 +14,7 @@
 			 <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
 		         <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
 		</td>
-         <td> 2021年1月17-18日 <a href="#" title="高德导航 |  嘉兴·梅花洲生活小镇（特色酒店）">嘉兴·梅花洲生活小镇（特色酒店）</a></td>            
+         <td> 2021年1月17-18日 <a href="https://surl.amap.com/2WgDXUYadAF" title="高德导航 |  嘉兴·梅花洲生活小镇（特色酒店）">嘉兴·梅花洲生活小镇（特色酒店）</a></td>            
 	 </tr> 
        <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/RYNU-cog_l5rbnH_Cmm-Dg" title="叮咚！您有一份来自瑞联集团的『2019年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2018-12-28☞盛典</a></td>
@@ -40,8 +40,8 @@
 			 <a href="#" title="瑞联集团2018年会盛典 | 优酷视频">#</a>
 		         <a href="https://v.qq.com/x/page/g0537cwb92s.html" title=" 瑞联集团2018年度盛会（郑州-01.21）_腾讯视频">腾讯视频</a>
 	      </td>   
-         <td> 2018年1月20日 河南·郑州 新华建国饭店</td>
-	 </tr> 
+         <td> 2018年1月20日 <a href="https://surl.amap.com/2VBDfDq1nbAd" title="高德导航 |  河南·郑州 新华建国饭店">河南·郑州 新华建国饭店</a></td>
+	 </tr>   
     <tr>     
 	    <td> &nbsp;</td>        
 	  <td> &nbsp;</td>
@@ -63,7 +63,7 @@
 	      </td>   
             <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
-			 2017年6月17日 嘉兴·摩根大酒店（五星级）</a> &nbsp; </td>
+			 2017年6月17日 <a href="https://surl.amap.com/2WJ8rfyWfjb" title="高德导航 |  嘉兴·摩根大饭店（五星级）">嘉兴·摩根大饭店（五星级）</a> &nbsp; </td>
 	 </tr> 	 
 	   	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2016-06-** )">
@@ -92,7 +92,7 @@
       </tr> 
 	  <tr>           
 		 <td> &nbsp;</td>
-         <td> 嘉兴·摩根大酒店（五星级）</td>
+         <td> <a href="https://surl.amap.com/2WJ8rfyWfjb" title="高德导航 |  嘉兴·摩根大饭店（五星级）">嘉兴·摩根大饭店（五星级）</a></td>
              <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
       </tr>  
 	  <tr>               
@@ -103,7 +103,7 @@
 	 </tr> 
 	   <tr>           
 	  <td> &nbsp;</td>
-         <td> 嘉兴·摩根大酒店（五星级）</td>
+         <td> <a href="https://surl.amap.com/2WJ8rfyWfjb" title="高德导航 |  嘉兴·摩根大饭店（五星级）">嘉兴·摩根大饭店（五星级）</a></td>
              <td> <a href="#" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
 	 </tr> 
 	 <tr>               
@@ -115,7 +115,7 @@
 	 </tr> 
 	   <tr>           
 		 <td> &nbsp;</td>
-         <td> 嘉兴·摩根大酒店（五星级）</td>
+         <td> <a href="https://surl.amap.com/2WJ8rfyWfjb" title="高德导航 |  嘉兴·摩根大饭店（五星级）">嘉兴·摩根大饭店（五星级）</a></td>
              <td> <a href="#" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
 	 </tr> 
     </table> 

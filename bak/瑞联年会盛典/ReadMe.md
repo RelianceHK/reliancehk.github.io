@@ -41,18 +41,18 @@
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年8月 微信通知</a></td>
         <td>☞<a href="#" title="瑞联集团邀请函">瑞联集团2015年8月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
-			 title="秋雨濛濛是丰收( @RuiLian  2015-08-22 )">【集团新闻】秋雨濛濛是丰收·嘉兴/8月*日</a> &nbsp; </td>
+			 title="秋雨濛濛是丰收( @RuiLian  2015-08-22 )">【集团新闻】秋雨濛濛是丰收·2015.8.22-23</a> &nbsp; </td>
 	 </tr> 
+	   <tr>               
+	 <td> &nbsp;</td>
+         <td> 嘉兴 2015.8.22-23</td>
+            <td><a href="https://mp.weixin.qq.com/s/FJl9oi_8aKSnU2fYD_naNQ" 
+			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">【集团新闻】八月的财富盛宴到来啦！2015.8.22-23</a> &nbsp; </td>
+      </tr> 
 	  <tr>           
 		 <td> &nbsp;</td>
-         <td> &nbsp;</td>
-             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。嘉兴·2015/8</a> &nbsp; </td>
-      </tr> 
-      <tr>               
-	 <td> &nbsp;</td>
-         <td> &nbsp;</td>
-            <td><a href="https://mp.weixin.qq.com/s/FJl9oi_8aKSnU2fYD_naNQ" 
-			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">【集团新闻】八月的财富盛宴到来啦！嘉兴·2015/8</a> &nbsp; </td>
+         <td> 嘉兴 2015.8.22-23</td>
+             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
       </tr> 
     </table> 
 	</summary>  		

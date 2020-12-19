@@ -29,20 +29,20 @@
         <td>☞<a href="#" title="瑞联集团邀请函">瑞联集团2016年6月邀请函</a> </td> 
             <td><a href="https://mp.weixin.qq.com/s/pwH5TS9S8PtZBTFGAk2eag" 
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-30 )">
-			 【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴/2016年6月</a> &nbsp; </td>
+			 【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴·2016/6</a> &nbsp; </td>
 	 </tr>   
       <tr>               
 	 	 <td> &nbsp;</td>
          <td> &nbsp;</td>
             <td><a href="https://mp.weixin.qq.com/s/IYujBbs9eBR1kdXl4Jcshg" 
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-29 )">
-			 【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴/2016年6月</a> &nbsp; </td>
+			 【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴·2016/6</a> &nbsp; </td>
 	 </tr> 
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年8月 微信通知</a></td>
         <td>☞<a href="#" title="瑞联集团邀请函">瑞联集团2015年8月邀请函</a> </td> 
-             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。嘉兴/8月*日</a> &nbsp; </td>
+             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。嘉兴·2015/8</a> &nbsp; </td>
       </tr> 	  
       <tr>               
 	 	 <td> &nbsp;</td>
@@ -54,14 +54,14 @@
 	  <tr>           
 		 <td> &nbsp;</td>
          <td> &nbsp;</td>
-             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。嘉兴/8月*日</a> &nbsp; </td>
+             <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。嘉兴·2015/8</a> &nbsp; </td>
       </tr> 
       <tr>               
 	 <td> &nbsp;</td>
          <td> &nbsp;</td>
             <td><a href="https://mp.weixin.qq.com/s/FJl9oi_8aKSnU2fYD_naNQ" 
 			 title="八月的财富盛宴到来啦！( @RuiLian  2015-08-14 )">
-			 【集团新闻】八月的财富盛宴到来啦！·嘉兴/8月*日</a> &nbsp; </td>
+			 【集团新闻】八月的财富盛宴到来啦！嘉兴·2015/8</a> &nbsp; </td>
       </tr> 
     </table> 
 	</summary>  		

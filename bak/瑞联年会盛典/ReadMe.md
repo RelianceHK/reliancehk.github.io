@@ -51,7 +51,7 @@
 	   	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2016-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2016年6月☞招商</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2016年6月邀请函</a> </td> 
+        <td><a href="http://i.eqxiu.com/s/rzdTWmBM" title="2016事业说明会电子邀请函-易企秀">瑞联 ✔2016年6月邀请函</a> </td> 
             <td><a href="https://mp.weixin.qq.com/s/pwH5TS9S8PtZBTFGAk2eag" 
 			 title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-30 )">【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！嘉兴</a> &nbsp; </td>
 	 </tr>   

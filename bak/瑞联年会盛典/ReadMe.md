@@ -14,7 +14,21 @@
              <td><a href="https://mp.weixin.qq.com/s/n_mib2xqW3Hhetq0J3GIkA" title="【集团新闻】瑞联集团2019年度盛会完美落幕·南湖">【集团新闻】瑞联集团2019年度盛会完美落幕·南湖/1月18日</a> &nbsp; </td>
       </tr> 
     </table> 
-	</summary>  	
+	</summary>  		
+	<details>
+    <summary>
+    <a href="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/">瑞联新媒体 | <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />微信·视频号</a>
+     </summary> 
+      <a href="https://mp.weixin.qq.com/" title="微信公众平台"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" /></a><a href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手">视频号助手</a>：<br/>
+<code>
+"c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code><br/>	
+ <li><a href="https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_agreement&s=video" title="微信视频号运营规范">微信视频号运营规范</a></li>
+ <li><a href="https://cn.bing.com/search?q=开通直播推流能力" title="微信视频号开通直播推流能力 - 国内版 Bing">微信视频号开通直播推流能力 - 国内版 Bing</a> | <a href="https://obsproject.com/" title="OBS (Open Broadcaster Software) 开源直播推流软件">OBS (Open Broadcaster Software) 开源直播推流软件</a></li>
+<li>视频号直播推流功能开通通知：</li><br/>
+<blockquote>你好，已为你开通视频号直播推流功能，欢迎使用摄像机等设备、OBS等软件进行专业化直播，详细教程请在电脑上登录视频号助手后台查看。请勿直播违法违规、色情低俗、录播录像、侵犯他人版权等内容，若违规，平台将收回推流功能。视频号助手直达地址： https://channels.weixin.qq.com/live </br>	
+使用<a href="https://channels.weixin.qq.com/live/liveBuild" title="">视频号助手</a>提供的推流地址及密钥，通过OBS等第三方平台输出直播流。请参考 《<a href="https://docs.qq.com/slide/DWGFJeVVxcXBkTmR2" title="视频号直播推流教程（2020版）">视频号直播推流教程</a>》。
+</blockquote>
+</details>	
 <h2>参考资料：</h2>
 <li><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" /><a href="https://mp.weixin.qq.com/s/5FabX3vVfHInpxt-VrMxAA" title="沙湖宾馆年会邀请函">沙湖宾馆年会邀请函</a>(@宁夏沙湖宾馆 2020-11-20)</li>
 <li><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" /><a href="https://mp.weixin.qq.com/s/Of0ENTu5hQyJty1DaktOeg" title="年会邀请函（红头文件通知版）">年会邀请函（红头文件通知版）</a>(@省三院睡眠科 2020-11-14)</li>

@@ -11,8 +11,8 @@
 	<tr>     
 		<td> &nbsp;</td>       
 		 <td> ▶
-			 <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">优酷视频</a>
-		         <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">腾讯视频</a>
+			 <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
+		         <a href="#" title="瑞联集团2021年会盛典 | 优酷视频">#</a>
 		</td>
          <td> 2021年1月17-18日 嘉兴·梅花洲生活小镇（特色酒店）</td>            
 	 </tr> 
@@ -24,8 +24,8 @@
 	 <tr>     
 		<td> &nbsp;</td>       
 		 <td> ▶
-			 <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">优酷视频</a>
-		         <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">腾讯视频</a>
+			 <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">#</a>
+		         <a href="#" title="瑞联集团2019年会盛典 | 优酷视频">#</a>
 		</td>
          <td> 2019年1月18日 嘉兴·南湖国际俱乐部（大酒店）</td>            
 	 </tr> 
@@ -37,7 +37,7 @@
       <tr>               
 	  <td> &nbsp;</td>
 	       <td> ▶
-			 <a href="#" title="瑞联集团2018年会盛典 | 优酷视频">优酷视频</a>
+			 <a href="#" title="瑞联集团2018年会盛典 | 优酷视频">#</a>
 		         <a href="https://v.qq.com/x/page/g0537cwb92s.html" title=" 瑞联集团2018年度盛会（郑州-01.21）_腾讯视频">腾讯视频</a>
 	      </td>   
          <td> 2018年1月20日 河南·郑州 新华建国饭店</td>
@@ -58,7 +58,7 @@
       <tr>               
 	 	 <td> &nbsp;</td> 
 	       <td> ▶
-			 <a href="#" title="瑞联集团 | 优酷视频">优酷视频</a>
+			 <a href="https://v.youku.com/v_show/id_XMjgzNDQ1NTM0OA" title="瑞联集团：氢素源水机上市发布会（16分钟现场高清版）-音乐-高清完整正版视频在线观看-优酷">优酷视频</a>
 		         <a href="https://v.qq.com/x/page/o0515pjyumh.html" title="瑞联：氢素源水机上市发布会_腾讯视频_腾讯视频">腾讯视频</a>
 	      </td>   
             <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 

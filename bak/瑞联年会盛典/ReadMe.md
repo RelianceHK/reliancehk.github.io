@@ -25,7 +25,7 @@
 	 </tr> 
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/" title="叮咚！您有一份来自瑞联集团的『2018年会邀请函』请注意查收！"><img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年12月☞盛典</a></td>
-        <td><a href="#" title="瑞联集团2018年会盛典邀请函">瑞联 ✔2018年会盛典邀请函</a> </td> 
+        <td><a href="http://m.eqxiu.com/s/vlLpcCrf" title="瑞联集团2018年会盛典邀请函-易企秀">瑞联 ✔2018年会盛典邀请函</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/LffS8ZfRTWAt6Upvh_2CNQ" title="【集团新闻】瑞联集团2018年度盛会完美落幕·郑州( 瑞联年会工作组 @RuiLian 2018-01-23 )">【集团新闻】瑞联集团2018年度盛会完美落幕·郑州/1月20日</a> &nbsp; </td>
       </tr> 
       <tr>               
@@ -79,11 +79,10 @@
              <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
       </tr>  
 	  <tr>               
-	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-05 )">
-	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年5月☞招商</a></td>
-        <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2015年5月邀请函</a> </td>             
-            <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 
-			 title="">【集团新闻】2015.5</a> &nbsp; </td>
+	 <td> <a href="#" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-06 )">
+	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年6月☞招商</a></td>
+        <td><a href="https://h5.scene.eprezi.com/s/ueGucgFa" title="温热养生：2015年6月份-瑞联·今生【邀请函】-易企秀">瑞联·今生 ✔2015年6月邀请函</a> </td>             
+            <td><a href="#" title="">【集团新闻】2015.6</a> &nbsp; </td>
 	 </tr> 
 	   <tr>           
 	  <td> &nbsp;</td>
@@ -91,7 +90,7 @@
              <td> <a href="#" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">☀你来，或者不来，机会就在这里。</a> &nbsp; </td>
 	 </tr> 
 	 <tr>               
-	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">
+	 <td> <a href="#" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-02 )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2015年2月☞招商</a></td>
         <td><a href="#" title="瑞联集团邀请函">瑞联 ✔2015年2月邀请函</a> </td>             
             <td><a href="https://mp.weixin.qq.com/s/dQWDPc-ENygrvybTg4ZUcA" 

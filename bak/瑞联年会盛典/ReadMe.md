@@ -26,7 +26,7 @@
 	<tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2017-06-** )">
 	 <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />2017年6月 微信</a></td>
-        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2017年6月新品邀请函</a> </td> 
+        <td>☞<a href="#" title="瑞联集团邀请函">瑞联 ☞2017年6月水机发布会</a> </td> 
              <td><a href="https://mp.weixin.qq.com/s/UV9Nh2ZVoC3gNPk5HxgKRw" 
 			 title="【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！( 原创 乐哥@RuiLian  2017-06-19 )">
 			 【新闻热点】瑞联集团氢素源富氢水机新品上市发布会圆满成功！嘉兴/2017年6月</a> &nbsp; </td>

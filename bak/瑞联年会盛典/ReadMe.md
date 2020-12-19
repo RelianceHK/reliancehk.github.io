@@ -33,7 +33,7 @@
       <tr>               
 	 	 <td> &nbsp;</td>
          <td> 2016-06-25 嘉兴·龙之梦酒店</td>
-            <td><a href="https://mp.weixin.qq.com/s/IYujBbs9eBR1kdXl4Jcshg" title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-29 )">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ( 新闻热点发布 @RuiLian  2016-06-29 ) </td>
+            <td><a href="https://mp.weixin.qq.com/s/IYujBbs9eBR1kdXl4Jcshg" title="【新闻热点】热烈祝贺瑞联集团战略合作招商会圆满成功！( @RuiLian  2016-06-29 )">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   集团新闻热点发布 ( @RuiLian  2016-06-29 ) </td>
 	 </tr> 
 	  <tr>               
 	 <td> <a href="https://mp.weixin.qq.com/s/W0bv_9M-f5iiCm13Rrx1zQ" title="☀你来，或者不来，机会就在这里。( @RuiLian  2015-08-14 )">

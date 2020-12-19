@@ -20,7 +20,7 @@
     <a href="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/">瑞联新媒体 | <img src="https://we.choong.net/tx/weixin.ico" height="15" width="15" />微信·视频号</a>
      </summary> <br/>
 <a target="_blank" href="https://weixin.qq.com/" title="WeChat | 微信，是一个生活方式" style="color:#04B141;text-decoration:none;">微信</a>
-<a target="_blank" href="https://wx.qq.com/" title="微信网页版"><img style="vertical-align:text-bottom;" src="https://we.choong.net/tx/weixin.ico" width="20" height="20"/></a> <a target="_blank" href="https://mp.weixin.qq.com/" title="微信公众平台" style="color:#04B141;text-decoration:none;">公众平台</a> | <a target="_blank" href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手" style="color:#FA9D3B;text-decoration:none;"><img style="vertical-align:text-bottom;" src="https://we.choong.net/tx/wx-fed.ico" width="20" height="20"/>视频号助手</a>：<br/>
+<a target="_blank" href="https://wx.qq.com/" title="微信网页版"><img style="vertical-align:text-bottom;" src="https://we.choong.net/tx/weixin.ico" height="15" width="15"/></a> <a target="_blank" href="https://mp.weixin.qq.com/" title="微信公众平台" style="color:#04B141;text-decoration:none;">公众平台</a> | <a target="_blank" href="https://channels.weixin.qq.com/" title="微信公众平台 · 视频号助手" style="color:#FA9D3B;text-decoration:none;"><img style="vertical-align:text-bottom;" src="https://we.choong.net/tx/wx-fed.ico" height="15" width="15"/>视频号助手</a>：<br/>
 <code>
 "c:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe" --profile-directory=Default -inprivate "https://channels.weixin.qq.com/"</code><br/><br/>	
  <li><a href="https://weixin.qq.com/cgi-bin/readtemplate?t=weixin_agreement&s=video" title="微信视频号运营规范">微信视频号运营规范</a></li>

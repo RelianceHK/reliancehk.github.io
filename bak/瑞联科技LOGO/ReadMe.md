@@ -38,8 +38,8 @@
       <td> &nbsp </td>
    </tr>  
  </table>
-  <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%9B%BE-%E9%A2%84%E8%A7%88.jpg?raw=true" /> 
- <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/微信公号封面大图-模板预览0.jpg?raw=true" />
+  <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7%E5%B0%81%E9%9D%A2%E5%A4%A7%E5%9B%BE-%E9%A2%84%E8%A7%88.jpg?raw=true" height="80%" width="80%" /> 
+ <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/微信公号封面大图-模板预览0.jpg?raw=true" height="80%" width="80%" /> 
   <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>  
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E4%BC%81%E4%B8%9Aai%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F.png?raw=true" />
  </details>

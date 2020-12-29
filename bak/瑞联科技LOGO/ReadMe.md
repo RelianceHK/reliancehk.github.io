@@ -2,7 +2,7 @@
  <tr>
         <td><img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/瑞联科技LOGO/瑞联科技.png?raw=true" height="26px" width="144px" /></td>
         <td><a href="http://www.reliancejk.com/tpl/www/images/logo.png" title="logo.png (144×26)"><img src="瑞联LOGO（左右横放）.png" height="26px" width="144px" /></a></td>
-        <td><a href="//www.lancentjk.com/" title="朗欣特官网 | 瑞联集团旗下品牌 logo.png (144×60)"><img src="https://lancentjk.github.io/lancent_TopFiles/lancent-144-60.png" height="26px" width="144px" /></a></td>
+        <td><a href="//www.lancentjk.com/" title="朗欣特官网 | 瑞联集团旗下品牌 logo.png (144×60)"><img src="https://lancentjk.github.io/lancent_TopFiles/lancent-144-60.png?raw=true" height="26px" width="144px" /></a></td>
 </tr>
 </table> 
 

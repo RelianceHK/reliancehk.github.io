@@ -6,6 +6,10 @@
    </summary>   	 
   &nbsp; &nbsp; &nbsp;
    <table> 
+	    <tr> 
+         <td><a href="http://www.xilaijian.com/" title="喜来健 中国 | 拿美生活 | RHV多功能温热理疗床 | 悠纤低频超声理疗仪 | 爱饮净水机等产品官网 ">喜来健·中国</a>官网 </td>        
+         <td><a href="https://xilaijian.tmall.com/" title="首页-喜来健旗舰店-天猫Tmall.com">喜来健旗舰店-天猫Tmall.com</a> </td>  
+      </tr> 
        <tr> 
          <td><a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
 	 </td>        

@@ -101,7 +101,7 @@
 
 <details>
 <summary>
-<b>1.主域名 <a href="https://www.reliancejk.com/">reliancejk.com</a></b><br>
+<b>1.主域名<img class="bottom"  src="https://ts.lancentjk.com/favicon.ico" height="15" width="15"/> <a href="https://www.reliancejk.com/">reliancejk.com</a></b><br>
 瑞联集团 浙江瑞联健康科技有限公司<br> 
 </summary> <br>  
 <li> 公司二级子域名设置：<a href="https://support.reliancejk.com/">support.reliancejk.com</a> </li>
@@ -112,7 +112,7 @@
 </details>
 <details>
 <summary>
-<b>2.主域名 <a href="https://www.lancentjk.com/">lancentjk.com</a></b>
+<b>2.主域名<img class="bottom"  src="https://ts.lancentjk.com/favicon.ico" height="15" width="15"/> <a href="https://www.lancentjk.com/">lancentjk.com</a></b>
 <br>瑞联集团 浙江瑞溢电子科技有限公司
  <br>
 <blockquote>

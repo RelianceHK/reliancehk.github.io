@@ -38,7 +38,7 @@
       </tr> 
        <tr>        
          <td>	<a href="https://mall.jd.com/" title="京东旗舰店网址">☞</a> 全国服务热线：400-777-0089 </td>
-         <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @康亦健 官网 2020-12-31 )
+         <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @官网 2020-12-31 )
 	 </td> 
       </tr> 
 	 <tr> 

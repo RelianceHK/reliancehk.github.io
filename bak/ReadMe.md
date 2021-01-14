@@ -3,7 +3,17 @@
 <details>
     <summary>        
 医疗行业平台 | 医疗器械厂家 🔗<a href="https://www.tecenet.com/" title="天成医疗网_医疗器械B2B平台,第三方医疗设备招商网">天成医疗网</a>_医疗器械B2B平台,第三方医疗设备招商网
-   </summary>     
+   </summary>   	 
+  &nbsp; &nbsp; &nbsp;
+   <table> 
+       <tr> 
+         <td><a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
+	 </td>        
+         <td>	
+<a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">京东-喜来健医疗器械旗舰店网址</a>
+	</td>
+      </tr> 
+    </table> 
 </details>
 
 <hr>

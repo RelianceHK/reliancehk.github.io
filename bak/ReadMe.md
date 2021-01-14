@@ -15,7 +15,7 @@
       </tr> 
        <tr> 
 	  <td>	
-<a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">☞</a>
+<a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">☞</a> 全国服务热线：400-610-3500 | 800-810-3500
 	</td>
          <td>🔗 <a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
 	 </td>   
@@ -28,7 +28,7 @@
          <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=138" title="祝贺：康亦健新版网站正式上线！-公司资讯- 广州市康亦健医疗设备有限公司新版网站（www.kangyijian88.com）已于2018年1月11日正式上线运行。 ">祝贺：康亦健新版网站正式上线！</a>（ www.kangyijian88.com ） </td>  
       </tr> 
        <tr>        
-         <td>	<a href="https://mall.jd.com/" title="京东旗舰店网址">☞</a>	</td>
+         <td>	<a href="https://mall.jd.com/" title="京东旗舰店网址">☞</a> 全国服务热线：400-777-0089 </td>
          <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @康亦健 官网 2020-12-31 )
 	 </td> 
       </tr> 

@@ -264,6 +264,30 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 	在右边的策略中找到“<b>拒绝从网络访问这台计算机</b>”，把Guest删除、保存即可。</blockquote>
 </details>
 
+
+<details>
+<summary>
+<a href="https://support.microsoft.com/zh-cn/windows/%E4%BF%AE%E5%A4%8D%E9%94%99%E8%AF%AF-0x80004005-9acfca89-b5e4-b976-6fa1-ef358450f3ac">修复错误 0x80004005 </a>
+</summary> <br>
+<b>修复错误 0x80004005 ：</b>Windows 10 <br>
+<b> 解决方法：</b><br>
+<blockquote><article class="ocpArticleContent"><section class="ocpIntroduction">
+        <p>这适用于 Windows 8、Windows 8.1、Windows Server 2012、Windows Server 20212 R2、Windows 10 和 Windows 10 版本 1511 中的 Internet Explorer 中的 Adobe Flash Player 以及 Windows 10 和 Windows 10 版本 1511 中的 Microsoft Edge 中的 Adobe Flash Player。 </p>
+        <dl>
+    <dd>
+            <p>Microsoft 发布了一个安全更新，用于解决 Internet Explorer 和 Microsoft Edge 中的 Adobe Player 中的漏洞。 我们建议你在电脑上转到“更新和安全”，立即安装更新。 选择 <b class="ocpLegacyBold">“开始” </b><span class="win-icon win-icon-WindowsLogo"></span> 按钮，然后依次选择<b class="ocpLegacyBold">“设置” </b><span class="win-icon win-icon-Settings"></span>&gt;<b class="ocpLegacyBold">“更新和安全”</b> <span class="win-icon win-icon-Sync"></span>&gt;<b class="ocpLegacyBold">“检查更新”</b>。</p>
+          </dd>
+  </dl>
+        <p>
+          <a href="https://support.microsoft.com/kb/3119147" target="_blank" class="ocpExternalLink">包含模式详细信息的知识库文章</a>
+          <br>
+          <a href="ms-settings:windowsupdate" target="_blank" role="button" class="ocpExternalLink supLinkButton">立即检查更新</a>
+        </p>
+      </section></article>
+
+	</blockquote>
+</details>
+
 <details>
 <summary>
 <a href="https://jingyan.baidu.com/article/cbcede0776baa602f40b4dba.html"><b>共享打印机忽然不能打印，用户账户限制的解决</b> - 百度经验</a>:<br>

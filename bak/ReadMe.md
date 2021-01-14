@@ -7,7 +7,8 @@
   &nbsp; &nbsp; &nbsp;
    <table> 
 	    <tr> 
-         <td><a href="http://www.xilaijian.com/" title="喜来健 中国 | 拿美生活 | RHV多功能温热理疗床 | 悠纤低频超声理疗仪 | 爱饮净水机等产品官网 ">喜来健·中国</a> 官网 http://www.xilaijian.com/</td>        
+         <td> <img class="bottom"  src="http://www.xilaijian.com/favicon.ico" height="15" width="15"/>		 
+		 <a href="http://www.xilaijian.com/" title="喜来健 中国 | 拿美生活 | RHV多功能温热理疗床 | 悠纤低频超声理疗仪 | 爱饮净水机等产品官网 ">喜来健·中国</a> 官网 http://www.xilaijian.com/</td>        
          <td>🔗 官方旗舰店：
 		 <a href="https://xilaijian.tmall.com/" title="首页-喜来健旗舰店-天猫Tmall.com">天猫 Tmall.com</a> |
 		   <a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">京东 JD.com</a>
@@ -32,7 +33,7 @@
 	  &nbsp; &nbsp; &nbsp;
    <table> 
 	    <tr> 
-         <td><a href="http://www.kangyijian.com/" title="广州市康亦健医疗设备有限公司 ">康亦健</a> 官网 http://www.kangyijian.com/</td>        
+         <td><img class="bottom"  src="http://kangyijian88.com/templates/specialty/images/favicon.ico" height="15" width="15"/>	<a href="http://www.kangyijian.com/" title="广州市康亦健医疗设备有限公司 ">康亦健</a> 官网 http://www.kangyijian.com/</td>        
          <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=138" title="祝贺：康亦健新版网站正式上线！-公司资讯- 广州市康亦健医疗设备有限公司新版网站（www.kangyijian88.com）已于2018年1月11日正式上线运行。 ">祝贺：康亦健新版网站正式上线！</a>（ www.kangyijian88.com ） </td>  
       </tr> 
        <tr>        

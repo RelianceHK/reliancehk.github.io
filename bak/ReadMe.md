@@ -285,6 +285,17 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
         </p>
       </section></article>
 	<li>《<a href="https://jingyan.baidu.com/article/48b558e3f806637f38c09a34.html">连接共享打印机0x80004005未指定错误解决一例</a> - 百度经验》</li>
+<details>
+<summary>《<a href="https://blog.csdn.net/HH519218/article/details/110873118">访问共享打印机报错：0X80004005</a> - CSDN博客》</summary> <br>
+<b>访问共享打印机报错：0X80004005</b><br>
+<blockquote>
+   1. windows键 + R键 输入 regedit 打开注册表 <br>
+   2. 定位到HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services
+    LanmanWorkstation\Parameters 右侧找到AllowInsecureGuestAuth，
+    如果没有，就新建一个DWORD（32）项重命名为“AllowInsecureGuestAuth”，设为“1”，确定。<br>
+  3.关闭注册表，重新访问共享打印机即可。<br>
+	</blockquote>
+ </details>
 	</blockquote>
 </details>
 

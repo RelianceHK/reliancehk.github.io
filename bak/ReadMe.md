@@ -20,6 +20,14 @@
          <td>🔗 <a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
 	 </td>   
 	 </tr> 
+	   <tr> 
+         <td>网站：信息产业部 京ICP备11027178号     京公网安备 11010502042837号</td>  
+	<td>&nbsp;</td> 
+	 </tr> 
+	    <tr> 
+         <td>地址：北京市朝阳区望京利泽中二路1号中辰大厦506  电话：（010）64390706</td>  
+	<td>&nbsp;</td> 
+	 </tr> 
     </table> 
 	  &nbsp; &nbsp; &nbsp;
    <table> 
@@ -32,6 +40,14 @@
          <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @康亦健 官网 2020-12-31 )
 	 </td> 
       </tr> 
+	 <tr> 
+         <td> 网站：粤ICP备16066680号-1 粤ICP备16066680号-3</td>  
+	<td>&nbsp;</td> 
+	 </tr> 
+	    <tr> 
+         <td>地址：广州市海珠区新港东路1000号保利世界贸易中心西塔9楼 传真：+86-020-62386963</td>  
+	<td>&nbsp;</td> 
+	 </tr> 
     </table> 
 </details>
 

@@ -62,7 +62,7 @@
     <li>🔗<a href="https://www.yinxiang.com/everhub/note/cb5f459b-2e22-4319-8092-f53929a65dd4" title="如何阅读一本书？_学习学习再学习">如何阅读一本书？</a></li>
 </details>
 <hr>
-	<li><a href="https://mp.weixin.qq.com/s/5WzR2yYUnJyRrblRTqDhQA" title="【重磅】我们升级啦！">☞【重磅】我们升级啦！</a>( @中国工商银行电子银行 2021-01-14 )</li>
+	<li>☞<a href="https://mp.weixin.qq.com/s/5WzR2yYUnJyRrblRTqDhQA" title="【重磅】我们升级啦！">【重磅】我们升级啦！</a>( @中国工商银行电子银行 今天 2021-01-14 )</li>
 <hr>
 
 <details>

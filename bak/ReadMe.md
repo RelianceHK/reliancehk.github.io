@@ -50,6 +50,8 @@
 	<td>&nbsp;</td> 
 	 </tr> 
     </table> 
+	<hr>
+	<li><a href="https://mp.weixin.qq.com/s/5WzR2yYUnJyRrblRTqDhQA" title="【重磅】我们升级啦！">☞【重磅】我们升级啦！</a>( @中国工商银行电子银行 2021-01-14 )</li>	 
 </details>
 
 <hr>

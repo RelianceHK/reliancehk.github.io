@@ -47,6 +47,9 @@
 	<a href="https://developers.weixin.qq.com/community/business/doc/0004c270e4875041282a1cf605b40d" title="推流直播操作指引 | 微信开放社区">推流直播操作指引 | 微信开放社区</a></br>
 	<a href="https://36kr.com/p/1005862091157256" title="视频号直播推流，一大批专业主播正在跑步进场_详细解读_最新资讯_热点事件_36氪">视频号直播推流，一大批专业主播正在跑步进场_详细解读_36氪</a></br>
 </blockquote>   
+<li> <a href="http://www.boser.com.cn/" title="宝狮集团 BOSER">宝狮BOSER</a> <a href="http://www.boser.com.cn/content/?229.html" title="宝狮集团 宝狮多媒体 采集卡BOSER 视频会议 多媒体- BOSER Media 宝狮多媒体:">BS-602DVD PLUS流媒体视频采集卡</a></li>
+<blockquote> <a href="http://www.boser.com.cn/content/?229.html" title="宝狮BS-602DVD PLUS流媒体视频采集卡"><img src="https://mp.weixin.qq.com/favicon.ico" height="15" width="15" /></a>
+	</blockquote> 
  <a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/瑞联新媒体" title="【瑞联新媒体】腾讯超级商业生态大闭环">
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93/%E8%85%BE%E8%AE%AF%E8%B6%85%E7%BA%A7%E5%95%86%E4%B8%9A%E7%94%9F%E6%80%81%E5%A4%A7%E9%97%AD%E7%8E%AF.jpg?raw=true" border="0" height="100%" width="100%" title="录制教程时可用字体包（23款免费商用字体）"></a>
 </details>

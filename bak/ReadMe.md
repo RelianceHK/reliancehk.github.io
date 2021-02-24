@@ -255,6 +255,17 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 -----------------------------------------------------
 
+   <li>无线路由器🔗<a href="https://www.tenda.com.cn/" title="帮助文档，服务支持，服务支持,FAQ,设置上网,故障排除,功能配置,网络基础,无线配置,热门问题_腾达(Tenda)官方网站">腾达(Tenda)官方网站</a></li>
+<details>
+    <summary>
+    <b>Tips:<a href="https://www.tenda.com.cn/faq/" title="帮助文档，服务支持，服务支持,FAQ,设置上网,故障排除,功能配置,网络基础,无线配置,热门问题_腾达(Tenda)官方网站">腾达(Tenda)官方网站</a></b>
+	    常见问题查询<br>
+我们编写了大量的问题文档，可以帮助自助解决问题
+     </summary> 
+       &nbsp; &nbsp; &nbsp;
+</details>
+	
+
 <details>
     <summary>
     <b>Tips:<a href=""> "/Tools/打印复印扫描一体机驱动/" </a></b>

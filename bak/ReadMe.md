@@ -378,13 +378,16 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <details>
     <summary>
     <b><a href="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md">Win10专业版激活密钥</a> ：<a href="https://www.cnblogs.com/zhuque/p/12424739.html">W269N-WFGWX-YVC9B-4J6C9-T83GX </b></a><br>
-     ☞ <a href="https://zhuanlan.zhihu.com/p/100397137">(slmgr /skms kms.03k.org 2021-2-24 正月十三 09:45（周三） 音控笔记本-续期激活180天有效至☞2021/8/23 周一 9:45:07 过期)</a>　</b>　
+     ☞ <a href="https://zhuanlan.zhihu.com/p/100397137">(slmgr /skms kms.03k.org <br>2021-2-24 正月十三 09:45（周三） 音控笔记本--续期已激活180天<br>有效至☞2021/8/23 周一 9:45:07 过期)</a>　</b>　
     </summary> 
     出现这样的情况，我们还可以通过查找自己的电脑自带的OEM产品密钥，还原激活。<br>
 我们可以按住键盘的组合键Win+Q，出现搜索框，输入powershell，使用管理员权限打开。<br>
 然后我们在出现的窗口中粘贴这段代码，在powershell窗口中我们可以通过单击右键粘贴。<br>
-<blockquote>(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey</blockquote><br>
+<blockquote>(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey</blockquote>
 按下回车，就会出现OEM产品的激活密钥。<br>
+------------------------------------<br>
+笔记：39NW9-2XFX7-DQ9FF-4FFJB-92C7H<br>
+------------------------------------<br>
     <br><b>解决方法</b>：
     <blockquote>
 1、打开cmd命令行界面<br>

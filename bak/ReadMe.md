@@ -375,6 +375,25 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <blockquote> 计算机管理--系统工具--本地用户和组--用户--Guest--右键打开属性--去除“账户已禁用”。</blockquote>
 
 --------------------------------------------------------------------------
+<details>
+    <summary>
+    <a href="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md">Win10专业版激活密钥</a> ：<a href="https://www.cnblogs.com/zhuque/p/12424739.html">W269N-WFGWX-YVC9B-4J6C9-T83GX </b></a>
+     ☞ <a href="https://zhuanlan.zhihu.com/p/100397137">(slmgr /skms kms.03k.org 2021-2-24 正月十三 09:45（周三） 音控笔记本-续期激活180天有效至☞2021/8/23 周一 9:45:07 过期)</a>　　
+    </summary> 
+    <br>解决方法：
+    <blockquote>
+1、打开cmd命令行界面<br>
+2、<br>
+依次输入：<br>
+slmgr.vbs /upk　　　　//卸载当前电脑的密钥<br>
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX　　　　//密钥<br>
+slmgr /skms kms.03k.org　　　　//设置 kms 服务器地址，一般很多 kms 地址是失效的，可以自行搜索其他地址<br>
+slmgr /ato　　　　//连接到 kms 服务器进行 windows 激活<br>
+slmgr.vbs -xpr　　　　//查询激活状态<br>
+    </blockquote>
+</details>
+
+--------------------------------------------------------------------------
 
 <details>
     <summary>

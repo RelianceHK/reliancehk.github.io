@@ -313,7 +313,9 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 - **【运营】HP LaserJet 专业 M1213nf 多功能打印机** - [软件和驱动程序](https://support.hp.com/cn-zh/drivers/selfservice/HP-LaserJet-M1200-Multifunction-Printer-series/5071505/model/4075454) | 惠普®客户支持 
   > **HP LaserJet 专业 M1213nf 多功能打印机** - [软件和驱动程序](http://support.hp.com/cn-zh/product/HP-LaserJet-M1200-Multifunction-Printer-series/5071505/model/4075454/drivers)
  
-- **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
+- **【李XW】HP LaserJet Pro P1606dn 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh/drivers/selfservice/hp-laserjet-pro-p1606-printer-series/4110408/model/4110409) | 惠普®客户支持 
+
+- **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) - [下载](https://h30318.www3.hp.com/pub/softlib/software13/COL32431/bi-80329-12/hp_LJP1100_P1560_P1600_Full_Solution-v20180815-50157037.exe) | 惠普® 客户支持 
 </tr> 
     </table> 
 </details>

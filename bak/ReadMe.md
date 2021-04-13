@@ -363,12 +363,11 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
     如果没有，就新建一个DWORD（32）项重命名为“AllowInsecureGuestAuth”，设为“1”，确定。<br>
   3.关闭注册表，重新访问共享打印机即可。<br>
 	</blockquote>
-	《<a href="https://zhuanlan.zhihu.com/p/46536212">局域网中连接共享打印机提示0x80070035错误的解决办法</a> - 知乎》	
-	<img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E7%BD%91%E7%BB%9C.jpg?raw=true" width="100%" height="100%" />
  </details>
 	</blockquote>
+	《<a href="https://zhuanlan.zhihu.com/p/46536212">局域网中连接共享打印机提示0x80070035错误的解决办法</a> - 知乎》	
+<img src="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/%E7%BD%91%E7%BB%9C.jpg?raw=true" width="100%" height="100%" />
 </details>
-
 <details>
 <summary>
 <a href="https://jingyan.baidu.com/article/cbcede0776baa602f40b4dba.html"><b>共享打印机忽然不能打印，用户账户限制的解决</b> - 百度经验</a>:<br>

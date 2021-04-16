@@ -399,6 +399,10 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 ------------------------------------<br>
 笔记：39NW9-2XFX7-DQ9FF-4FFJB-92C7H<br>
 ------------------------------------<br>
+<a href="https://www.himmy.cn/2019/07/20/win10-digital-license%E6%95%B0%E5%AD%97%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/"><b>Win10 Digital License数字许可证永久激活</b></a> | 野猿新一<br>
+VK7JG-NPHTM-C97JM-9MPGT-3V66T<br>
+【验证】cmd打开命令提示符，输入“slmgr.vbs -xpr”然后回车<br>
+---------------------------------------<br>
     <br><b>解决方法</b>：
     <blockquote>
 1、打开cmd命令行界面<br>

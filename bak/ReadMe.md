@@ -392,7 +392,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 </details>
 
 <a href="https://github.com/taoste/Hello-World/tree/master/Tools/U/"><img src="https://github.com/taoste/Hello-World/blob/master/Tools/U/各种数据线接口图合集.jpg?raw=true" title="各种数据线接口图合集.jpg"/></a>
-
+ <img class="bottom"  src="https://reliancehk.github.io/bak/5F.png" height="50%" width="50%" title="【放大看高清图】瑞联嘉兴总部5楼展厅直播间（空调遥控器）"/>	
 <details>
 <summary>
 <a href="https://support.microsoft.com/zh-cn/windows/%E4%BF%AE%E5%A4%8D%E9%94%99%E8%AF%AF-0x80004005-9acfca89-b5e4-b976-6fa1-ef358450f3ac">修复错误 0x80004005 </a>

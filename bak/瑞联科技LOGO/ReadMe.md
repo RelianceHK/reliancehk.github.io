@@ -3,6 +3,7 @@
         <td><img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/瑞联科技LOGO/瑞联科技.png?raw=true" height="26px" width="144px" /></td>
         <td><a href="http://www.reliancejk.com/tpl/www/images/logo.png" title="logo.png (144×26)"><img src="瑞联LOGO（左右横放）.png" height="26px" width="144px" /></a></td>
         <td><a href="//www.lancentjk.com/" title="朗欣特官网 | 瑞联集团旗下品牌 logo.png (144×60)"><img src="https://lancentjk.github.io/lancent_TopFiles/lancent-144-60.png?raw=true" height="30px" width="144px" /></a></td>
+        <td><img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/瑞联科技LOGO/三氢创康logo.png?raw=true" height="26px" width="144px" /></td>
 </tr>
 </table> 
 
@@ -44,5 +45,8 @@
 <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E7%91%9E%E8%81%94%E7%A7%91%E6%8A%80LOGO/%E4%BC%81%E4%B8%9Aai%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F.png?raw=true" />
  </details>
 
-- 三氢创康 logo：
+- 三氢创康 logo：<br>
  <img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/瑞联科技LOGO/三氢创康logo.png?raw=true" height="26px" width="144px" /><br>
+  采用☞<a href="https://www.3vdown.com/soft/hanbiaogaoqingrui-52537.html" title="【已下载备份到本地】汉标高清锐毛字体免费版-汉标高清锐毛字体下载 -三维下载">汉标高清锐毛字体</a>：<br>
+  <b>汉标高清锐毛</b>是汉标字库推出的一款纯手写书法字体，作者运用大号毛笔精心书写，楷书味道浓厚，由于字体较大，使得笔画清晰度较高，笔画中也减少了过多的处理和笔势，厚重、饱满。因为是纯手写的原因，它独特的气质更与其他字体不同，看似统一，其实各有各的味道，每个字都可以独具风情。字由字在，大到自然，清晰可见便是对它最好的体现。
+

@@ -2,7 +2,8 @@
 
 <details>
     <summary>
-	    瑞联TV : <a href="https://list.youku.com/albumlist/show/id_55596158" title="【康教授】瑞联氢课堂 - 播单 - 优酷视频: 158">【康教授】瑞联氢课堂</a>  - 播单 - 优酷视频
+	    瑞联TV : <a href="https://list.youku.com/albumlist/show/id_55596158" title="【康教授】瑞联氢课堂 - 播单 - 优酷视频: 158">【康教授】瑞联氢课堂</a>  - 播单 - 优酷视频<br/>
+	    <a href="https://m.reliancejk.com/" title="logo.png (144×26)"><img src="https://reliancehk.github.io/bak/瑞联科技LOGO/瑞联TV.png" height="26px" width="144px" style="background-color:#4C4C4C"/></a>
  </summary>      
 	瑞联TV : <a href="https://list.youku.com/albumlist/show/id_51495587" title="《瑞联脊柱健康讲堂系列课程》--瑞联教育部出品 - 播单 - 优酷视频: 158
 		 简介：《瑞联脊柱健康讲堂系列课程》 【瑞联教育部出品】仅内部使用，盗版必究">《瑞联脊柱健康讲堂系列课程》--瑞联教育部出品</a>  - 播单 - 优酷视频<br/>	

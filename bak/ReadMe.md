@@ -445,6 +445,9 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 <blockquote> 计算机管理--系统工具--本地用户和组--用户--Guest--右键打开属性--去除“账户已禁用”。</blockquote>
 
 --------------------------------------------------------------------------
+
+<a href="https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzUrDQBSFXyXMSiGVO5mZ_LgymZmQUlqKtCjuJpmJDdakpIliRXDjM7h0JQg-hE_TRd_CiRQ3Fz44nPtxnlG_Ne3iaWPQOcLIRbp5rI9ILJbV2szU_YDZMr6SY2eqOpM0zZ1z7czbxtn_fB9eP_Zvn4f3r5NpzLNLF7B7k4347PRso8tjx1x1K9vhK6apwXnuKUMLBiErjPZJVOalpxX2bTqvdmNto5P4YrcaFTVAgBkLBreiNaqrmnpRDULYh4gSoIABwEXb6rZWXd8OqizCQlIRABOxxymVlDDGCQhOYiaB-kGSsDRkiZBESBCUy4j69qaJF2KR2l8Pal3p5f82XdubP7fjNpMYvfwCLllgeTwBAAA%3D.pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">🔗</a><a href="https://reliancehk.github.io/bak/HUAWEI%20MateBook%20X%20Pro%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8(MACHR%2C01%2CZH-CN).pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">HUAWEI MateBook X Pro 快速入门 (MACHR,01,ZH-CN).pdf</a>
+	
 <details>
     <summary>
     <b><a href="https://github.com/taoste/Hello-World/blob/master/Tools/Microsoft%20Windows%2010/Win10%20ESD%E4%B8%80%E9%94%AE%E8%BD%AC%E6%8D%A2ISO%E5%B7%A5%E5%85%B7/readme.md">Win10专业版激活密钥</a> ：<a href="https://www.cnblogs.com/zhuque/p/12424739.html">W269N-WFGWX-YVC9B-4J6C9-T83GX </b></a><br>

@@ -45,7 +45,7 @@
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;">第六,设置打印数量(从数据源的第几行打印到第几行)</font></font>
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;">第七,保存当前布局设置,方便下次使用.</font></font>
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;"><br style="overflow-wrap: break-word;"></font></font>
-<br>
+<br><img src="/cgi-bin/download?sid=wY7VW3Xgxf1EYWEA&amp;upfile=IbAaC%2FXrSyvFzo1SWUQtvrRQY1js5aLBbYpiv%2BdFo26rn7a7k27upXJZlt43IuoRql2dn1nl7CZDhacHQFKBioKpISPtF2h2xa%2B2AqnQPRUbutMIpqfNXdlkS0T9WzqkKKpRmeGaxUILkAorYduXD%2FnxM5DLc9gGMQII1cQriUI%3D" style="" id="img_insert_163955575794305181238667308952"><br>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">这个是使用方法视频,因为文件太大,无法上传,只能放网盘了.</span>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">不会使用软件的,可以下载来看看.</span>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">链接：https://pan.baidu.com/s/1Dc89hvW-m8Agffe5iZFfOA</span>

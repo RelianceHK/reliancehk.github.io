@@ -42,6 +42,8 @@ BarTender是目前在行业中使用最多的条码打印软件软件，bartende
 <font face="微软雅黑" size="5"><br style="overflow-wrap: break-word; color: rgb(68, 68, 68);"></font>
 <font face="微软雅黑" style="overflow-wrap: break-word; color: rgb(68, 68, 68);"><font size="5" style="overflow-wrap: break-word;">https://d94r2itylgwnp.cloudfront.net/BarTender/11.1/BT2019_R4_140669_Full_x64.exe</font></font>
 <br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif;"><font face="微软雅黑" style="overflow-wrap: break-word; color: rgb(68, 68, 68);"><font size="5" style="overflow-wrap: break-word;"><br style="overflow-wrap: break-word;"></font></font>
-<br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif;"><font face="宋体" style="overflow-wrap: break-word; color: rgb(68, 68, 68);"><font style="overflow-wrap: break-word;"><font size="4">http://183.91.54.237:7080/masuit/soft/raw/master/BarTender2019%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%81.7z</font></font></font></div>
+<br style="overflow-wrap: break-word; color: rgb(68, 68, 68); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Tahoma, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, Simsun, sans-serif;"><font face="宋体" style="overflow-wrap: break-word; color: rgb(68, 68, 68);">
+    【破解补丁下载】<br>
+    <font style="overflow-wrap: break-word;"><font size="4">http://183.91.54.237:7080/masuit/soft/raw/master/BarTender2019%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%81.7z</font></font></font></div>
   </blockquote>
 <details>

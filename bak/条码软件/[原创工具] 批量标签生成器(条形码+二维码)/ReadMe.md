@@ -45,7 +45,7 @@
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;">第六,设置打印数量(从数据源的第几行打印到第几行)</font></font>
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;">第七,保存当前布局设置,方便下次使用.</font></font>
 <br style="overflow-wrap: break-word; font-size: 14px;"><font size="4" style="font-size: 13px; overflow-wrap: break-word;"><font color="#ff0000" style="overflow-wrap: break-word;"><br style="overflow-wrap: break-word;"></font></font>
-<br><img src="/cgi-bin/download?sid=wY7VW3Xgxf1EYWEA&amp;upfile=IbAaC%2FXrSyvFzo1SWUQtvrRQY1js5aLBbYpiv%2BdFo26rn7a7k27upXJZlt43IuoRql2dn1nl7CZDhacHQFKBioKpISPtF2h2xa%2B2AqnQPRUbutMIpqfNXdlkS0T9WzqkKKpRmeGaxUILkAorYduXD%2FnxM5DLc9gGMQII1cQriUI%3D" style="" id="img_insert_163955575794305181238667308952"><br>
+<br><img src="https://github.com/RelianceHK/RelianceHK.github.io/blob/master/bak/%E6%9D%A1%E7%A0%81%E8%BD%AF%E4%BB%B6/%5B%E5%8E%9F%E5%88%9B%E5%B7%A5%E5%85%B7%5D%20%E6%89%B9%E9%87%8F%E6%A0%87%E7%AD%BE%E7%94%9F%E6%88%90%E5%99%A8(%E6%9D%A1%E5%BD%A2%E7%A0%81+%E4%BA%8C%E7%BB%B4%E7%A0%81)/QRLabelPrint%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.gif?raw=true"><br>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">这个是使用方法视频,因为文件太大,无法上传,只能放网盘了.</span>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">不会使用软件的,可以下载来看看.</span>
 <br style="overflow-wrap: break-word; font-size: 14px;"><span style="font-size: 14px;">链接：https://pan.baidu.com/s/1Dc89hvW-m8Agffe5iZFfOA</span>

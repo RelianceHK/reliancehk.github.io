@@ -49,7 +49,28 @@
          <td>地址：广州市海珠区新港东路1000号保利世界贸易中心西塔9楼 <br/>传真：+86-020-62386963</td>  
 	<td>&nbsp;</td> 
 	 </tr> 
-    </table> 		 
+    </table> 	
+	&nbsp; &nbsp; &nbsp;
+	<table> 
+	    <tr> 
+        <td> <img class="bottom"  src="http://www.chinaangmei.com/favicon.ico" height="15" width="15"/>		 
+		<a href="http://www.chinaangmei.com/" title="南京项美电子科技有限公司">项美科技</a> 官网 http://www.chinaangmei.com/ </td>         
+         <td>🔗 官方旗舰店：&nbsp; &nbsp; &nbsp; </td>  
+      </tr> 
+       <tr> 
+	   <td>☞ 全国服务热线：400-168-1169 | 全国售后热线：400-158-1169</td> 
+         <td>🔗 <a href="https://mp.weixin.qq.com/" title="喜讯｜！">喜讯｜</a>( @官微 2021-01-13 )
+	 </td>   
+	 </tr> 
+	   <tr> 
+         <td>网站：苏ICP备18019813号</td>  
+	<td>&nbsp;</td> 
+	 </tr> 
+	    <tr> 
+        <td>公司地址：南京市江宁区秣周东路12号悠谷3号楼8层 <br/>邮编：211111</td> 
+	<td>邮箱：1577611386@qq.com <br/>电话：025-86181169</td> 
+	 </tr> 
+    </table> 
 </details>
 
 <hr>

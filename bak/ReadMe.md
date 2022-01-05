@@ -7,23 +7,23 @@
   &nbsp; &nbsp; &nbsp;
    <table> 
 	    <tr> 
-         <td> <img class="bottom"  src="http://www.xilaijian.com/favicon.ico" height="15" width="15"/>		 
-		 <a href="http://www.xilaijian.com/" title="喜来健 中国 | 拿美生活 | RHV多功能温热理疗床 | 悠纤低频超声理疗仪 | 爱饮净水机等产品官网 ">喜来健·中国</a> 官网 http://www.xilaijian.com/</td>        
-         <td>🔗 官方旗舰店：
+		<td><img class="bottom"  src="http://www.xilaijian.com/static/img/logo_m.d0aec513.jpg" height="41" width="272"/></td>       
+		 <td>	
+<a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">☞</a> 全国服务热线：400-610-3500 | 800-810-3500
+	</td>		   
+      </tr> 
+       <tr> 
+	   <td> <img class="bottom"  src="http://www.xilaijian.com/favicon.ico" height="15" width="15"/>		 
+		 <a href="http://www.xilaijian.com/" title="喜来健 中国 | 拿美生活 | RHV多功能温热理疗床 | 悠纤低频超声理疗仪 | 爱饮净水机等产品官网 ">喜来健·中国</a> 官网 http://www.xilaijian.com/</td>    
+           <td>🔗 官方旗舰店：
 		 <a href="https://xilaijian.tmall.com/" title="首页-喜来健旗舰店-天猫Tmall.com">天猫 Tmall.com</a> |
 		   <a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">京东 JD.com</a>
 	  </td>  
-      </tr> 
-       <tr> 
-	  <td>	
-<a href="https://mall.jd.com/view_page-247662736.html" title="京东喜来健医疗器械旗舰店网址：">☞</a> 全国服务热线：400-610-3500 | 800-810-3500
-	</td>
-         <td>🔗 <a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
-	 </td>   
 	 </tr> 
 	   <tr> 
          <td>网站：  京ICP备11027178号 京公网安备 11010502042837号</td>  
-	<td>&nbsp;</td> 
+	<td>🔗 <a href="https://mp.weixin.qq.com/s/VDq9yEKOqai65m9OlsiG2g" title="喜讯｜京东喜来健医疗器械旗舰店上线啦！">喜讯｜京东喜来健医疗器械旗舰店上线啦！</a>( @喜来健官微 2021-01-13 )
+	 </td>  	
 	 </tr> 
 	    <tr> 
          <td>地址：北京市朝阳区望京利泽中二路1号中辰大厦506  <br/>电话：（010）64390706</td>  
@@ -33,33 +33,33 @@
 	  &nbsp; &nbsp; &nbsp;
    <table> 
 	    <tr> 
-         <td><img class="bottom"  src="http://kangyijian88.com/templates/specialty/images/favicon.ico" height="15" width="15"/>	<a href="http://www.kangyijian.com/" title="广州市康亦健医疗设备有限公司 ">康亦健</a> 官网 http://www.kangyijian.com/</td>        
-         <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=138" title="祝贺：康亦健新版网站正式上线！-公司资讯- 广州市康亦健医疗设备有限公司新版网站（www.kangyijian88.com）已于2018年1月11日正式上线运行。 ">祝贺：康亦健新版网站正式上线！</a>（ www.kangyijian88.com ） </td>  
-      </tr> 
-       <tr>        
-         <td>	<a href="https://mall.jd.com/" title="京东旗舰店网址">☞</a> 全国服务热线：400-777-0089 </td>
-         <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @官网 2020-12-31 )
-	 </td> 
+		    <td><img class="bottom"  src="http://www.kangyijian.com/templates/specialty/images/home-logo.png" height="118" width="126"/>	</td>  
+                     <td>	<a href="https://mall.jd.com/" title="京东旗舰店网址">☞</a> 全国服务热线：400-777-0089 </td>          
+           </tr> 
+       <tr>  
+	        <td><img class="bottom"  src="http://kangyijian88.com/templates/specialty/images/favicon.ico" height="15" width="15"/>	<a href="http://www.kangyijian.com/" title="广州市康亦健医疗设备有限公司 ">康亦健</a> 官网 http://www.kangyijian.com/</td>  
+ <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=138" title="祝贺：康亦健新版网站正式上线！-公司资讯- 广州市康亦健医疗设备有限公司新版网站（www.kangyijian88.com）已于2018年1月11日正式上线运行。 ">祝贺：康亦健新版网站正式上线！</a>（ www.kangyijian88.com ） </td>  
       </tr> 
 	 <tr> 
-         <td> 网站：粤ICP备16066680号-1 粤ICP备16066680号-3</td>  
-	<td>&nbsp;</td> 
+         <td> 网站：粤ICP备16066680号-1 <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;粤ICP备16066680号-3</td>  
+	         <td>🔗 <a href="http://www.kangyijian.com/index.php?ac=article&at=read&did=361" title="【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”-公司资讯-广州市康亦健医疗设备有限公司 ">【喜讯】康亦健荣获“抗击新冠疫情突出贡献奖”</a>( @官网 2020-12-31 )
+	 </td> 
 	 </tr> 
 	    <tr> 
-         <td>地址：广州市海珠区新港东路1000号保利世界贸易中心西塔9楼 <br/>传真：+86-020-62386963</td>  
+         <td>地址：广州市海珠区新港东路1000号<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;保利世界贸易中心西塔9楼 <br/>传真：+86-020-62386963</td>  
 	<td>&nbsp;</td> 
 	 </tr> 
     </table> 	
 	&nbsp; &nbsp; &nbsp;
 	<table> 
 	    <tr> 
-        <td> <img class="bottom"  src="http://www.chinaangmei.com/favicon.ico" height="15" width="15"/>		 
-		<a href="http://www.chinaangmei.com/" title="南京项美电子科技有限公司">项美科技</a> 官网 http://www.chinaangmei.com/ </td>         
-         <td>🔗 官方旗舰店：&nbsp; &nbsp; &nbsp; </td>  
-      </tr> 
+		<td><img class="bottom"  src="http://www.chinaangmei.com/templates/default/imgs/logo.jpg" height="51" width="248"/>	</td>  
+		<td>☞ 全国服务热线：400-168-1169 | 全国售后热线：400-158-1169</td> 
+          </tr> 
        <tr> 
-	   <td>☞ 全国服务热线：400-168-1169 | 全国售后热线：400-158-1169</td> 
-         <td>🔗 <a href="https://mp.weixin.qq.com/" title="喜讯｜！">喜讯｜</a>( @官微 2021-01-13 )
+	   <td> 	 
+		<a href="http://www.chinaangmei.com/" title="南京项美电子科技有限公司">项美科技</a> 官网 http://www.chinaangmei.com/ </td>   	  
+            <td>🔗 <a href="https://mp.weixin.qq.com/" title="喜讯｜！">喜讯｜</a>( @官微 2021-01-13 )
 	 </td>   
 	 </tr> 
 	   <tr> 

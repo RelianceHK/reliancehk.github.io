@@ -20,7 +20,13 @@
       <tr> 
              <td><a href="#" title=""><img src="https://img14.360buyimg.com/n1/s450x450_jfs/t21514/262/2377037133/157605/de4f2907/5b558a05Nf5c4e92a.jpg"height="250" width="350"" /></a></td>
              <td>
-              <li><a href="https://reliancehk.github.io/bak/索尼(Sony)存储卡摄录一体机/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a></li><br>
+              <li>
+
+<a href="https://www.sonystyle.com.cn/products/nxcam/hxr_mc2500/hxr_mc2500.html" title="索尼HXR-MC2500_Sony HXR-MC2500_专业手持式摄录一体机|报价,价格,配置,详情-索尼中国在线商城">索尼 HXR-MC2500 </a>
+<a href="https://reliancehk.github.io/bak/索尼(Sony)存储卡摄录一体机/存储卡摄录一体机（操作指南）.pdf" title="Sony 存储卡摄录一体机（操作指南）">Sony 存储卡摄录一体机（操作指南）</a> [索尼在线商城价格：RMB ￥9150.00]</li><br>
+ <blockquote><b>HXR-MC2500 高清存储卡摄录一体机入门级专业肩扛式 广角 G 镜头 光学防抖与增强模式</b><br>
+<b>商品描述</b>：广角 G 镜头/高度灵敏的 Exmor™ R CMOS 成像器和内置 LED 灯/光学防抖与增强模式/宽视角、高对比度 OLED 寻像器和 3 英寸宽屏液晶面板/Wi-Fi、NFC 功能可连接智能手机/MI 热靴/具有可指派功能的手动镜头环/32GB 内置存储卡和低功耗非常适合长时间的活动的拍摄/符合人体工程学的手柄和控件/AVCHD格式 – 高效录制的理想选择/其他专业功能
+</blockquote>   
               <li><a href="https://pro.sony/s3/2020/02/13104508/5011799612_CS.pdf" title="【官网】Sony 存储卡摄录一体机 PXW-Z750 使用说明书">【其它型号】Sony 存储卡摄录一体机 PXW-Z750 使用说明书</a></li></td>
       </tr> 
     </table> 

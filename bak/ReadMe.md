@@ -468,6 +468,15 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 --------------------------------------------------------------------------
 
+- [**Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：**](https://zhidao.baidu.com/question/755989035627423564.html)
+<blockquote>
+1、用Cortana搜索“cmd”，并找到“命令提示符”。 <br>
+2、找到“命令提示符”后，右击，选择“以管理员身份运行”。 <br>
+3、打开cmd之后，输入“ net user administrator /active:yes ”，按回车。<br>
+</blockquote>
+
+--------------------------------------------------------------------------
+
 <a href="https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzUrDQBSFXyXMSiGVO5mZ_LgymZmQUlqKtCjuJpmJDdakpIliRXDjM7h0JQg-hE_TRd_CiRQ3Fz44nPtxnlG_Ne3iaWPQOcLIRbp5rI9ILJbV2szU_YDZMr6SY2eqOpM0zZ1z7czbxtn_fB9eP_Zvn4f3r5NpzLNLF7B7k4347PRso8tjx1x1K9vhK6apwXnuKUMLBiErjPZJVOalpxX2bTqvdmNto5P4YrcaFTVAgBkLBreiNaqrmnpRDULYh4gSoIABwEXb6rZWXd8OqizCQlIRABOxxymVlDDGCQhOYiaB-kGSsDRkiZBESBCUy4j69qaJF2KR2l8Pal3p5f82XdubP7fjNpMYvfwCLllgeTwBAAA%3D.pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">🔗</a><a href="https://reliancehk.github.io/bak/HUAWEI%20MateBook%20X%20Pro%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8(MACHR%2C01%2CZH-CN).pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">HUAWEI MateBook X Pro 快速入门 (MACHR,01,ZH-CN).pdf</a>
 	
 <details>

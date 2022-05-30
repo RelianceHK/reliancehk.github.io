@@ -6,3 +6,5 @@
   > **HP LaserJet 专业 M1213nf 多功能打印机** - [软件和驱动程序](http://support.hp.com/cn-zh/product/HP-LaserJet-M1200-Multifunction-Printer-series/5071505/model/4075454/drivers)
  
 - **HP LaserJet 1020 Plus 打印机** - [软件和驱动程序](https://support.hp.com/cn-zh-hans/drivers/selfservice/HP-LaserJet-1000-Printer-series/439423/model/3329726) | 惠普® 客户支持 
+
+-**[理光ricoh mp c2010 彩色打印一体机驱动](https://github.com/taoste/Hello-World/tree/master/Tools/%E6%89%93%E5%8D%B0%E5%A4%8D%E5%8D%B0%E6%89%AB%E6%8F%8F%E4%B8%80%E4%BD%93%E6%9C%BA%E9%A9%B1%E5%8A%A8/%E7%90%86%E5%85%89ricoh%20mp%20c2010%E5%BD%A9%E8%89%B2%E6%89%93%E5%8D%B0%E4%B8%80%E4%BD%93%E6%9C%BA%E9%A9%B1%E5%8A%A8)**

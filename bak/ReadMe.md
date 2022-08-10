@@ -377,6 +377,10 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 > 最近，惠普在激光打印机上又推陈出新，发布了以惠普 M134 系列激光打印机为代表的全新惠普大粉仓系列激光打印机，并率先提出了「原装大粉仓」的概念。而这个系列的产品不仅延续了惠普激光打印机的高品质，而且单页打印成本也是前所未见的低。
 
 <hr>
+	   
+- [惠普（HP） 智能连供 510 无线彩色一体机系列](https://support.hp.com/cn-zh/drivers/selfservice/hp-smart-tank-510-wireless-all-in-one-series/16449872) 软件和驱动下载 | 惠普®客户支持
+	   
+<hr>
 
 - [**针式打印机 | 中盈新斯大 NX-725**](http://driver.zol.com.cn/down/460172_6_9_dxxz.shtml?origin=y) - [**驱动和软件下载**](http://driver.zol.com.cn/down/460172_6_9_gwxz1.shtml?origin=y) | [**中盈打印机驱动**](http://driver.zol.com.cn/print_drivers/35196_page_1.html) - @[ZOL中关村在线](http://driver.zol.com.cn/detail/47/460172.shtml)
 ```

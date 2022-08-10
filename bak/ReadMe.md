@@ -378,7 +378,7 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 <hr>
 	   
-- [惠普（HP） 智能连供 510 无线彩色一体机系列](https://support.hp.com/cn-zh/drivers/selfservice/hp-smart-tank-510-wireless-all-in-one-series/16449872) 软件和驱动下载 | 惠普®客户支持
+- [惠普（HP） 智能连供 510 无线云打印·彩色一体机系列](https://support.hp.com/cn-zh/drivers/selfservice/hp-smart-tank-510-wireless-all-in-one-series/16449872) 软件和驱动下载 | 惠普®客户支持
 	   
 <hr>
 

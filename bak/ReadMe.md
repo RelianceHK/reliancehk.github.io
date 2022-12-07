@@ -191,7 +191,10 @@
 
 <details>
 <summary>
-<b>1.主域名<img class="bottom"  src="https://ts.lancentjk.com/favicon.ico" height="15" width="15"/> <a href="https://www.reliancejk.com/">reliancejk.com</a></b><br>
+<b>1.主域名<img class="bottom"  src="https://ts.lancentjk.com/favicon.ico" height="15" width="15"/> | <a href="https://www.reliancejk.com/">reliancejk.com</a>
+<a href="https://www.reliancejk.cn/">reliancejk.cn</a></b><br>
+( <a href="https://vr.3d66.com/vr/index_detail_1982885.asp" title="创康驿站 | 3DMax模型">创康驿站</a> | <a href="https://www.3d66.com/home.html" title="【3D模型免费下载】打造一流的3DMax模型库_3D溜溜网 3d66.com">3DMax模型</a> )	
+<br>
 瑞联集团 浙江瑞联健康科技有限公司<br> 
 </summary> <br>  
 <li> 公司二级子域名设置：<a href="https://support.reliancejk.com/">support.reliancejk.com</a> </li>

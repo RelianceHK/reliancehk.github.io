@@ -195,7 +195,7 @@
 <a href="https://www.reliancejk.cn/">reliancejk.cn</a></b><br>
 ( <a href="https://vr.3d66.com/vr/index_detail_1982885.asp" title="创康驿站 | 3DMax模型">创康驿站</a> | <a href="https://www.3d66.com/home.html" title="【3D模型免费下载】打造一流的3DMax模型库_3D溜溜网 3d66.com">3DMax模型</a> )	
 <br>
-瑞联集团 浙江瑞联健康科技有限公司<br> 
+瑞联集团 : <a href="https://www.tianyancha.com/company/5807067103">浙江嘉兴禾氢科技有限公司</a> - <a href="https://www.tianyancha.com/">天眼查</a><br> 
 </summary> <br>  
 <li> 公司二级子域名设置：<a href="https://support.reliancejk.com/">support.reliancejk.com</a> </li>
 <blockquote> <b>【设置参数】 </b><br>
@@ -206,8 +206,8 @@
 <details>
 <summary>
 <b>2.主域名<img class="bottom"  src="https://ts.lancentjk.com/favicon.ico" height="15" width="15"/> <a href="https://www.lancentjk.com/">lancentjk.com</a></b>
-<br>瑞联集团 浙江瑞溢电子科技有限公司
- <br>
+<br>
+瑞联集团 : <a href="https://www.tianyancha.com/company/3093414604">浙江瑞盈智能科技有限公司</a> - <a href="https://www.tianyancha.com/">天眼查</a><br> 
 <blockquote>
 网站开通后，请在网站首页底部中间位置放置您的ICP备案号并链接至" http://beian.miit.gov.cn "。 
 并在开通之日起30日内登录<b><a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" title="全国互联网安全管理服务平台 | 公安部网络安全保卫局"/>全国互联网安全管理平台</a></b>提交公安联网备案申请。获取《<b><a href="https://help.aliyun.com/knowledge_detail/36981.html">公安备案信息填写指南</a></b>》。

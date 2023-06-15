@@ -238,7 +238,44 @@
 <blockquote>本课程将带您快速入门Python，感受Python的强大与便捷<br>
 适合Python零基础人员</blockquote>
 </details>
-
+		     
+<details>
+    <summary><b><a href="https://www.goomay.com/" title="嘉兴网站建设|嘉兴网站制作|嘉兴网页设计|嘉兴网络公司-浙江谷美网络科技有限公司-浙江古美信息技术有限公司">嘉兴网站建设</a></b><br>
+<blockquote>	     
+您好，我们<a href="https://www.goomay.com/" title="嘉兴网站建设|嘉兴网站制作|嘉兴网页设计|嘉兴网络公司-浙江谷美网络科技有限公司-浙江古美信息技术有限公司">谷美</a>
+主营网站建设、宣传片视频拍摄、搜索引擎推广(百度+谷歌) 、邮箱+域名+公众号+小程序，如有需要<a href="https://www.goomay.com/contact" title="联系我们_浙江谷美网络科技有限公司">欢迎咨询</a><br>
+这是我们公司做的几个网站和视频案例，您有时间看一下，如果有需要可以随时联系我(张凤英 微信号：876185318)</blockquote></summary>
+网站案例：<br><br>
+<a href="https://www.xinfengming.com">https://www.xinfengming.com</a><br>
+新凤鸣集团<br><br>
+<a href="https://www.juepaier.com/">https://www.juepaier.com/</a> <br>
+爵派尔服饰<br><br>
+<a href="https://www.jixiang-aluminum.com/">https://www.jixiang-aluminum.com/</a> <br>
+吉祥新材料<br><br>
+<a href="https://www.glorymica.com/">https://www.glorymica.com/</a> <br>
+荣泰电工器材<br><br>
+<a href="https://www.textaihua.com/">https://www.textaihua.com/</a> <br>
+台华新材 <br><br>
+<a href="https://www.lante.com.cn">https://www.lante.com.cn</a> <br>
+蓝特光学 <br><br>
+<a href="https://www.flatgroup.com.cn/">https://www.flatgroup.com.cn/</a> <br>
+福莱特玻璃 <br><br>
+<a href="http://www.jushi.com">http://www.jushi.com</a> <br>
+中国巨石股份有限公司 <br><br>
+<a href="http://www.honglee.net/">http://www.honglee.net/</a> <br>
+宏利汽配集团 <br><br>
+<a href="http://www.esttools.com">http://www.esttools.com</a> <br>
+恒锋工具 <br><br>
+<a href="http://www.zjhongmi.com/">http://www.zjhongmi.com/</a> <br>
+鸿密塑胶<br><br>
+<a href="https://www.wufangzhai.com/">https://www.wufangzhai.com/</a> <br>
+五芳斋<br><br>
+<a href="https://www.zjzhongda.com">https://www.zjzhongda.com</a> <br>
+众成包装 <br> <br>
+视频案例链接<br>
+<a href="http://video.sh07.webhost.goomay.com.cn/v3.html">http://video.sh07.webhost.goomay.com.cn/v3.html</a>
+</details>
+		     
 <details>
     <summary>【<a href="https://github.com/RelianceHK/RelianceHK.github.io/tree/master/bak/%E7%91%9E%E8%81%94%E6%96%B0%E5%AA%92%E4%BD%93">网络营销 · 新媒体 · 短视频</a>】专题
      </summary>  <br>

@@ -512,8 +512,8 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 --------------------------------------------------------------------------
 
-<li><a href="https://support.microsoft.com/zh-cn/windows">Windows 帮助和学习</a> | <a href="https://www.microsoft.com/zh-cn/">Microsoft - 云、计算机、应用和游戏</a>：</li>
-
+<li><a href="https://support.microsoft.com/zh-cn/windows"><b>Windows 帮助和学习</b></a> | <a href="https://www.microsoft.com/zh-cn/"><b>Microsoft</b> - 云、计算机、应用和游戏</a>：</li>
+<br>
 <li><b><a href="https://zhidao.baidu.com/question/755989035627423564.html">Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：</a></b></li>
 <blockquote>
 1、用Cortana搜索“cmd”，并找到“命令提示符”。 <br>

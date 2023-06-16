@@ -512,13 +512,27 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 
 --------------------------------------------------------------------------
 
-- [**Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：**](https://zhidao.baidu.com/question/755989035627423564.html)
+- [****](
+<li><b><a href="https://zhidao.baidu.com/question/755989035627423564.html">Windows10 家庭版开启超级管理员账户，即Administrator账户的步骤如下：</a></b></li>
 <blockquote>
 1、用Cortana搜索“cmd”，并找到“命令提示符”。 <br>
 2、找到“命令提示符”后，右击，选择“以管理员身份运行”。 <br>
 3、打开cmd之后，输入“ net user administrator /active:yes ”，按回车。<br>
 </blockquote>
 
+<li><a href="https://answers.microsoft.com/zh-hans/windows/forum/all/windows-hello/1d1c9914-a719-4969-99c6-904d932fd559"></b>Windows hello 指纹识别不能用了，本来是可以使用的 联想小新电脑之前可以用指纹的，结果重装系统后，一直显示出现问题</b> - Microsoft Community</a></li>
+<blockquote>
+您好！<br>
+我们了解到您关于Windows Hello无法正常使用的问题。<br>
+系统升级或者系统安装完成之后指纹识别设备无法正常使用，指纹录入报错。可以参考下面操作。<br> 
+<blockquote>
+	涉及服务Windows Biometric Service；或者会使用net stop WbioSrvc（停止服务）和net start WbioSrvc（启动服务）根据实际情况；<br> 
+涉及指纹识别数据位置 C:\Windows\System32\WinBioDatabase文件夹。[GUID].DAT  文件。<br> 
+找到控制面板-管理工具-服务，并找到Windows Biometric Service；或者会使用net stop WbioSrvc（停止服务）和net start WbioSrvc（启动服务），将其停止。<br> 
+之后找到文件，将其删除（如果无法删除将其名称更改之后删除）<br> 
+重启，启动服务，重新在用户登陆设置中设置Pin之后录入指纹。<br>
+</blockquote>
+</blockquote>
 --------------------------------------------------------------------------
 
 <a href="https://consumer-tkbdownload.huawei.com/ctkbfm/servlet/download/downloadServlet/H4sIAAAAAAAAAD2QzUrDQBSFXyXMSiGVO5mZ_LgymZmQUlqKtCjuJpmJDdakpIliRXDjM7h0JQg-hE_TRd_CiRQ3Fz44nPtxnlG_Ne3iaWPQOcLIRbp5rI9ILJbV2szU_YDZMr6SY2eqOpM0zZ1z7czbxtn_fB9eP_Zvn4f3r5NpzLNLF7B7k4347PRso8tjx1x1K9vhK6apwXnuKUMLBiErjPZJVOalpxX2bTqvdmNto5P4YrcaFTVAgBkLBreiNaqrmnpRDULYh4gSoIABwEXb6rZWXd8OqizCQlIRABOxxymVlDDGCQhOYiaB-kGSsDRkiZBESBCUy4j69qaJF2KR2l8Pal3p5f82XdubP7fjNpMYvfwCLllgeTwBAAA%3D.pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">🔗</a><a href="https://reliancehk.github.io/bak/HUAWEI%20MateBook%20X%20Pro%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8(MACHR%2C01%2CZH-CN).pdf" title="🔗HUAWEI MateBook X Pro 快速入门(MACHR,01,ZH-CN).pdf">HUAWEI MateBook X Pro 快速入门 (MACHR,01,ZH-CN).pdf</a>

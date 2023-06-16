@@ -531,7 +531,9 @@ YouTube 是源自美国的视频分享网站，也是目前全球最大的视频
 找到控制面板-管理工具-服务，并找到Windows Biometric Service；或者会使用net stop WbioSrvc（停止服务）和net start WbioSrvc（启动服务），将其停止。<br> 
 之后找到文件，将其删除（如果无法删除将其名称更改之后删除）<br> 
 重启，启动服务，重新在用户登陆设置中设置Pin之后录入指纹。<br>
-</blockquote>
+</blockquote><br>
+<li><a href="https://support.microsoft.com/zh-cn/windows/windows-%E7%99%BB%E5%BD%95%E9%80%89%E9%A1%B9%E5%92%8C%E8%B4%A6%E6%88%B7%E4%BF%9D%E6%8A%A4-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf#managehello">Windows 登录选项和账户保护 - Microsoft 支持</a></li><br>
+<li><a href="https://support.microsoft.com/zh-cn/windows/%E4%BA%86%E8%A7%A3-windows-hello-%E5%B9%B6%E5%AF%B9%E5%85%B6%E8%BF%9B%E8%A1%8C%E8%AE%BE%E7%BD%AE-dae28983-8242-bb2a-d3d1-87c9d265a5f0">了解 Windows Hello 并对其进行设置 - Microsoft 支持</a></li>
 </blockquote>
 --------------------------------------------------------------------------
 

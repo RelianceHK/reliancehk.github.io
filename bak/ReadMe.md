@@ -564,9 +564,9 @@ VK7JG-NPHTM-C97JM-9MPGT-3V66T<br>
 依次输入：<br>
 slmgr.vbs /upk　　　　//卸载当前电脑的密钥<br>
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX　　　　//密钥<br>
-slmgr.vbs -ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J //设置（小余RLOP2023、win10工作站版-使用有效：2024年5月7日）
+slmgr.vbs -ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J //密钥（小余RLOP2023、win10工作站版-使用有效：2024年5月7日）<br>
 slmgr /skms kms.03k.org　　　　//设置 kms 服务器地址，一般很多 kms 地址是失效的，可以自行搜索其他地址<br>
-slmgr /skms kms.loli.best //设置 kms 服务器地址（小余RLOP2023、win10工作站版-使用有效：2024年5月7日）
+slmgr /skms kms.loli.best //设置 kms 服务器地址（小余RLOP2023、win10工作站版-使用有效：2024年5月7日）<br>
 slmgr /ato　　　　//连接到 kms 服务器进行 windows 激活<br>
 slmgr.vbs -xpr　　　　//查询激活状态<br>
     </blockquote>   

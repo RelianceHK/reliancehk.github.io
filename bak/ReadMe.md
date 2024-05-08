@@ -572,8 +572,18 @@ slmgr.vbs -xpr　　　　//查询激活状态<br>
     </blockquote>   
 其他：<a href="https://cloud.tencent.com/document/product/213/2757">云服务器 使用 slmgr 命令激活 Windows 系统-运维指南-文档中心-腾讯云</a>（最近更新时间：2023-09-19 15:25:35）
     <blockquote>slmgr /skms kms.tencentyun.com</blockquote>
+<li>	
+<a href="https://software.sjtu.edu.cn/List/rjlb" title="软件列表 - 上海交通大学正版软件授权中心">软件列表</a> -
+<a href="https://net.sjtu.edu.cn/info/1009/2037.htm">微软正版软件激活攻略</a> -<a href="https://net.sjtu.edu.cn/index.htm">上海交通大学网络信息中心</a></li>
+	<a href="https://software.sjtu.edu.cn/List/windows/11">Windows 11 - 微软Windows操作系统 - 上海交通大学正版软件授权中心</a>
+ <blockquote>
+slmgr /ipk NG4HW-VH26C-733KW-K6F98-J8CK4<br>
+slmgr /skms kms.sjtu.edu.cn<br>
+slmgr /skms 147.134.1.42<br>
+slmgr.vbs -ato<br>
+</blockquote>
+Bu kodlar bir harika dostm
 </details>
-
 --------------------------------------------------------------------------
 
 <details>

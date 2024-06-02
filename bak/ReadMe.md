@@ -1,5 +1,8 @@
 # <b>备忘录</b>
 <p>正确写法：<b>本活动最终解释权在法律允许范围内归本店(公司)所有</b></p>
+<li><a href="https://lbs.amap.com/api/wia/tutorial/content/mark">如何标记位置？-地图标记-功能说明-地图小程序帮助中心 | 高德地图API</a></li>
+<blockquote>高德地图APP-->更多工具-->其他：商户标注-->免费开店。</blockquote>
+<li><a href="https://lbs.amap.com/api/javascript-api/guide/overlays/marker">点标记-覆盖物-教程-地图 JS API 1.4 | 高德地图API</a></li><br>
 <details>
     <summary>        
 医疗行业平台 | 医疗器械厂家 🔗<a href="https://www.tecenet.com/" title="天成医疗网_医疗器械B2B平台,第三方医疗设备招商网">天成医疗网</a>_医疗器械B2B平台,第三方医疗设备招商网

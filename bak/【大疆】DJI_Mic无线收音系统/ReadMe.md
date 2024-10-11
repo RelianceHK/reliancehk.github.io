@@ -1,5 +1,5 @@
 <h1><a href="https://www.dji.com/cn/mic/">DJI Mic</a> - <a href="https://www.dji.com/cn/mic/specs">技术参数</a> （资料：<a href="https://www.dji.com/cn/mic/downloads">下载</a> / <a href="https://www.dji.com/cn/mic/video">视频</a>） | <a href="https://www.dji.com/cn/"> DJI 大疆创新</a></h1>
-
+<li><a href="https://www.skypixel.com/videos/dji-mic"> DJI MIC 降噪小技巧 来自 DJI 产品应用 | 天空之城</a></li>
 <div id="download-nav" class="breadcrumb-nav">
 <div class="download-content">
 <h1 class="downloade-title">下载</h1>
